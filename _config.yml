@@ -1,9 +1,9 @@
 layout: default
-title: Raízes Perdidas
+title: Interser Perdidas
 logo: /assets/img/logo.png
-description: Raízes perdidas e um espaço de reflexão sobre virtudes e valores na vida de um ser humano.
-tagline: 'Raízes Perdidas'
-url: "https://raizesperdidas.github.io/"
+description: Interser perdidas e um espaço de reflexão sobre virtudes e valores na vida de um ser humano.
+tagline: 'Interser Perdidas'
+url: "https://interser.github.io/"
 comments: true
 future: false
 permalink: /posts/:title
