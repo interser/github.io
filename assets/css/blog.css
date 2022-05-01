@@ -2,7 +2,6 @@ body,
 html {
 	font-family: 'Merriweather', serif;
 	background-color: #FFF;
-	font-size: 18px;
   line-height: 1.5;
 	color: #00171F;
   margin-top: 30px;
@@ -17,18 +16,6 @@ a {
 a:hover {
   text-decoration: none;
   color: #8479a1;
-}
-
-h1 {
-  font-size: 1.2rem;
-}
-
-h4 {
-  font-size: 1.50rem;
-}
-
-h6 {
-  font-size: 1rem;
 }
 
 .highlighter-rouge {
@@ -88,22 +75,6 @@ h6 {
 .navbar-brand {
   color: #191b26 !important;
 }
-
-pre, code {
-  white-space: pre;
-  overflow-x: scroll;
-}
-
-.hljs {
-  display: inline-block;
-  overflow-x: scroll;
-  padding: 0.5em;
-  padding-right: 100%;
-  background: #002b36;
-  color: #839496;
-  -webkit-text-size-adjust: none;
-}
-
 
 header.masthead {
   margin-bottom: 50px;
