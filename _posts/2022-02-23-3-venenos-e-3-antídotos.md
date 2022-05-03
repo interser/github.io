@@ -24,4 +24,4 @@ Nirvana poderia ser entendido como a própria experiência plena de existir ness
 
 Os três selos poderiam ser assim resumidos: tudo o que existe é, em última análise, impermanente, está livre de uma substância pessoal (ego) e repousa na perfeição da existência. Também estão correlacionados, pois a impermanência sustenta a impessoalidade, o que por sua vez mantém a desobstrução do nirvana, e tudo isso vai sendo alimentado pela própria prática. Cada um deles funciona como um potente antídoto contra cada um dos três venenos da mente, confirmando sua validade na própria realidade que se apresenta.
 
-Referênciaa: https://mokusen.wordpress.com/2015/02/05/3-venenos-e-3-antidotos/
+Referência: https://mokusen.wordpress.com/2015/02/05/3-venenos-e-3-antidotos/
