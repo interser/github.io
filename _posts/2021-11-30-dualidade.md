@@ -2,7 +2,7 @@
 layout: post
 title:  Dualidade
 date:   2021-11-30 20:18:00 +0000
-
+published: false
 tags: virtudes valores
 ---
 
