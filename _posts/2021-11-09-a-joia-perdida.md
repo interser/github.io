@@ -26,6 +26,6 @@ O dinheiro jamais poderá comprar a paz, a paz é gratuita, e está dentro do co
 
 Existe uma estória muito antiga sobre um homem muito rico que viajou o mundo todo a procura de um joia que estava perdida, após se angustiar por longos anos em uma procura exaustiva, ele descobriu que essa joia estava no bolso de suas calças.
  
-Esse conto demonstra a realidade do mundo, as pessoas desejam e sofrem por não saberem que na verdade elas já possuem tudo. Você não precisa de mais nada, tudo que você precisa é encontrar a sua jóia do coração. A jóia do coração é o bem mais precioso que você possui no seu interior, ela é a única coisa que lhe trará amor, alegria, compaixão e estabilidade emocional.
+Esse conto demonstra a realidade do mundo, as pessoas desejam e sofrem por não saberem que na verdade elas já possuem tudo. Elas não precisam de mais nada, elas tem tudo do que precisam, apenas precisam aprender como encontrar a jóia do coração. A jóia do coração é o bem mais precioso que elas possuem no seu interior, ela é a única coisa que resgatará o amor próprio, a alegria, a compaixão e estabilidade emocional.
 
-Não espere chegar no fim de sua vida para perceber que você já possui tudo que precisa para ser feliz, pare de procurar por outras coisas, respire fundo e olhe ao seu redor, `você verá que a vida existe independente de qualquer bem material`. 
+Não espere chegar no fim de sua vida para perceber que você já possui tudo que precisa para ser feliz, pare de procurar por outras coisas, respire fundo e olhe ao seu redor, `você verá que a paz existe independente de qualquer bem material`. 
