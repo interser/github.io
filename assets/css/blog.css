@@ -4,7 +4,7 @@ html {
 	background-color: #FFF;
   line-height: 1.5;
 	color: #00171F;
-  margin-top: 30px;
+  
 }
 
 .post, .page {
@@ -75,11 +75,11 @@ a:hover {
 }
 
 .bg-mine {
-  background-color: #FFF !important;
+  background-color: #4d1c52 !important;
 }
 
 .navbar-brand {
-  color: #191b26 !important;
+  color: #FFF !important;
 }
 
 header.masthead {
