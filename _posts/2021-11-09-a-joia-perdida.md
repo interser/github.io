@@ -6,7 +6,7 @@ date:   2021-11-09 20:18:00 +0000
 tags: virtudes valores
 ---
 
-A busca por muitos bens materiais e a tristeza por se trabalhar por muitos anos sem se obter aquilo que se deseja é uma aflição carregada por muitas pessoas que vivem longos anos de suas vidas mergulhadas na tristeza, no cansaço e na ansiedade. Esse vazio, essa angústia,  e essa falta de ter tudo aquilo que só o dinheiro pode nos dar, corrói a alma da mesma forma que o sal quando é jogado sobre uma lesma. A pessoa se contorce, fica inquieta, reclama e nada está bom em sua vida. 
+A busca por muitos bens materiais e a tristeza por se trabalhar por muitos anos sem se obter aquilo que se deseja é uma aflição carregada por muitas pessoas que vivem longos anos de suas vidas mergulhadas na tristeza, no cansaço e na ansiedade. Esse vazio, essa angústia, e essa falta de "ter tudo aquilo que só o dinheiro pode comprar", corrói a alma da mesma forma que o sal quando é jogado sobre uma lesma. A pessoa se contorce, fica inquieta, reclama e nada está bom em sua vida. 
 
 O que é isso ? O que faz uma pessoa se sentir assim tão mal ? Seria a falta de um apartamento próprio ? Um carro zero ? Uma casa na praia ? Um melhor trabalho ? Melhor salário ? Tudo isso ainda seria em vão. Nenhum bem material tem valor real, são todos fúteis, não trazem paz e duradoura felicidade. Por mais que você tenha tudo isso, ainda assim sentirá a falta de algo mais, porque esse preenchimento que você tanto procura, está dentro do seu coração e não fora.
 
