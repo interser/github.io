@@ -20,3 +20,6 @@ Um indivíduo deve desenvolver o hábito de reflexão e questionamento sobre `to
 
 `Somente haverá transformação no mundo no momento em que cada um transformar-se internamente`, isso tem sido dito por sábios durante séculos e não há outra fórmula de mudança mundial.
  
+
+ Nutrir a consciência
+A quarta fonte de nutrição envolve a consciência coletiva e a individual. Nossa consciência individual é influenciada pela consciência coletiva do meio em que vivemos. Nós absorvemos e refletimos o que existe ao nosso redor. Se moramos em um local onde as pessoas são raivosas ou violentas, podemos ser como elas. Se vivemos em uma família ou comunidade em que existe uma cultura de compreensão e compaixão uns com os outros, seremos naturalmente mais inclinados à paz e ao amor. Crianças que crescem em um ambiente desse tipo aprenderão a ser carinhosas e gentis.
