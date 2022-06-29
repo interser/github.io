@@ -7,6 +7,12 @@ html {
   margin-top: 30px;
 }
 
+.post, .page {
+  max-width: 780px;
+  margin: 0 auto;
+  color: var(--text-color);
+}
+
 a {
   text-decoration: none;
   cursor: pointer;
