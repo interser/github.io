@@ -3,7 +3,7 @@ layout: post
 title:  As Dez Perfeições (Paramis)
 date:   2022-01-25 20:18:00 +0000
 
-tags: virtudes valores mente
+tags: virtudes valores
 ---
 
 #### Generosidade (Dana)

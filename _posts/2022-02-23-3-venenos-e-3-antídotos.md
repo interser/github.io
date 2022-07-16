@@ -3,7 +3,7 @@ layout: post
 title:  3 venenos e 3 antídotos
 date:   2022-02-23 20:18:00 +0000
 
-tags: virtudes valores mente
+tags: virtudes valores
 ---
 
 Quando você está inflamado, nervoso, discutindo, você não está comprometido com os fatos, com a verdade, você está comprometido com a vitória, com ganhar a discussão a qualquer preço. Sua mente está cega, blindada, furiosa, tendenciosa e, dessa perspectiva distorcida, o mundo ao redor será sempre uma ameaça constante. Você quer afastar essa ameaça, pois ela lhe incomoda, ela representa tudo aquilo que você não gosta ou não concorda. O Budismo chama esse quadro mental de a “mente raivosa”. A raiva é um dos três venenos da mente, segundo os ensinamentos budistas. Os outros dois são a ganância e a ignorância.

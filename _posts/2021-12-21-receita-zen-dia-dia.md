@@ -3,7 +3,7 @@ layout: post
 title:  Receita Zen para o Dia a Dia
 date:   2021-12-21 20:18:00 +0000
 
-tags: virtudes valores mente
+tags: virtudes valores
 ---
 
 Em verdade, em verdade vos digo, a menos que um grão de trigo caia na terra e morra, ele permanece sozinho; mas, se morrer, trará muitos frutos.
