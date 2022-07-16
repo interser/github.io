@@ -19,3 +19,5 @@ compaixão e falta de medo à nossa criança interior e aos nossos antepassados.
 `A atençāo plena só nos ajuda a reduzir o estresse e a tensão quando nos oferece insights.`
 
 A meditação não é um local de refúgio temporário que nos ajuda a parar de sofrer por um tempo. Ela é muito mais do que isso. Sua prática espiritual tem o poder de transformar as raízes do seu sofrimento e a maneira como você vive seu cotidiano. É o insight que nos ajuda a acalmar nossa agitação, estresse e desejo. Acho que podemos começar a falar em “redução de estresse baseada no insight”.
+
+“A arte de viver em paz e em liberdade no aqui e agora” por Thich Nhat Hanh
