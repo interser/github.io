@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contemplação das Coisas Repulsivas
+title: Contemplação Das Coisas Repulsivas
 date:  2022-03-14 20:18:0000
 tags: virtudes valores
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  3 venenos e 3 antídotos
+title:  3 Venenos E 3 Antídotos
 date:   2022-02-23 20:18:00 +0000
 
 tags: virtudes valores

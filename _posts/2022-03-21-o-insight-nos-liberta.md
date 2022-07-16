@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  O Insight nos Liberta
+title:  O Insight Nos Liberta
 date:   2022-03-21 20:18:0000
 tags: virtudes valores
 ---

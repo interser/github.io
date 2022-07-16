@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Discutir é uma grande perda de tempo
+title:  Discutir É Uma Grande Perda De Tempo
 date:   2022-02-09 20:18:00 +0000
 
 tags: virtudes valores

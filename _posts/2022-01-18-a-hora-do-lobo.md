@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Hora do Lobo
+title:  A Hora Do Lobo
 date:   2022-01-18 20:18:00 +0000
 
 tags: virtudes valores
