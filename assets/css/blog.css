@@ -7,21 +7,23 @@ html {
   
 }
 
-.post, .page {
-  max-width: 780px;
-  margin: 0 auto;
-  color: var(--text-color);
-}
-
 a {
   text-decoration: none;
   cursor: pointer;
-  color: #909cc4;
+  color: #00171F;
 }
 
 a:hover {
   text-decoration: none;
-  color: #8479a1;
+  color: #00171F;
+}
+
+/* CUSTOM */
+
+.post, .page {
+  max-width: 780px;
+  margin: 0 auto;
+  color: var(--text-color);
 }
 
 .highlighter-rouge {
@@ -29,6 +31,7 @@ a:hover {
   font-weight: bolder;
 }
 
+/* PAGINATION */
 .pagination {
   margin-top: 40px;
   margin-bottom: 40px;
@@ -39,7 +42,15 @@ a:hover {
   margin-left: 30px;
 }
 
-/* CUSTOM */
+.pagination-arrow-disabled {
+  text-decoration: none;
+  color: #cdcdcd;
+}
+
+.pagination-arrow-active {
+  text-decoration: none;
+  color: #4d1c52;
+}
 
 .icon-list {
   padding-left: 0;
