@@ -1,12 +1,13 @@
 ---
 layout: default
-title:  Generosidade
-permalink: /generosidade/
+title:  Apoio
+permalink: /apoio/
 ---
 
-#### Generosidade
+#### Apoio
 
-Esse espaço reúne uma série de organizações criadas por pessoas generosas ao redor do mundo.
+Esse espaço reúne uma série de organizações no qual tenho apoiado de forma financeira ou por compartilhamento em redes sociais.
+Organizações como essas possuem boas intenções por trás de suas ações e merecem todas as formas de apoio para que recebam seus méritos em troca de ajuda proporcionadas à humanidade.
 
 `Kinder World`
 
@@ -16,4 +17,11 @@ O discurso fez tanto sucesso que estima-se que tenha incentivado mais de 100 mil
 
 Hoje em dia, focamos a maior parte do nosso tempo na edição de vídeos educativos que mostram os animais como indivíduos sensíveis, dignos de nossa bondade e compaixão. Em seguida, traduzimos os vídeos para diferentes idiomas e continuamos a publicá-los em nossas diferentes páginas do Facebook nos idiomas inglês, espanhol, português, hindi, francês, italiano e alemão. Entre 2017 e 2018, nossos vídeos no Facebook foram vistos mais de 2.500.000.000 vezes.
 
-<a href="https://www.kinderworld.org/videos/cow-videos/">https://www.kinderworld.org/videos/cow-videos/</a>
+<a href="https://www.kinderworld.org/videos/cow-videos/" target="_blank">https://www.kinderworld.org/videos/cow-videos/</a>
+
+
+`Brasil Paralelo`
+
+Orientados pela busca da verdade histórica, ancorada na realidade dos fatos, e sem qualquer tipo de ideologização na produção de conteúdo.
+
+<a href="https://www.brasilparalelo.com.br/" target="_blank">https://www.brasilparalelo.com.br/</a>
