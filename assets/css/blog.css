@@ -3,22 +3,28 @@ html {
 	font-family: 'Merriweather', serif;
 	background-color: #FFF;
   line-height: 1.5;
-	color: #00171F;
+	color: #222222;
   
+}
+
+h1, h2 {
+  color: #831a6c;
 }
 
 a {
   text-decoration: none;
   cursor: pointer;
-  color: #00171F;
+  color: #4e003c;
 }
 
 a:hover {
   text-decoration: none;
-  color: #00171F;
+  color: #831a6c;
 }
 
-/* CUSTOM */
+.bg-mine {
+  background-color: #4e003c !important;
+}
 
 .post, .page {
   max-width: 780px;
@@ -27,7 +33,7 @@ a:hover {
 }
 
 .highlighter-rouge {
-  color: #00171F;
+  color: #831a6c;
   font-weight: bolder;
 }
 
@@ -49,8 +55,10 @@ a:hover {
 
 .pagination-arrow-active {
   text-decoration: none;
-  color: #4d1c52;
+  color: #831a6c;
 }
+
+/* custom end */
 
 .icon-list {
   padding-left: 0;
@@ -85,9 +93,7 @@ a:hover {
   }
 }
 
-.bg-mine {
-  background-color: #4d1c52 !important;
-}
+
 
 .navbar-brand {
   color: #FFF !important;
