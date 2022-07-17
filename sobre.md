@@ -1,10 +1,8 @@
 ---
-layout: post
-title:  Interser
-date:   2021-09-26 20:18:00 +0000
-tags: virtudes valores
+layout: default
+title:  Sobre
+permalink: /sobre/
 ---
-
 
 “Se você for um poeta, verá claramente que há uma nuvem flutuando nesta folha de papel. Sem uma nuvem, não haverá chuva; sem chuva, as árvores não podem crescer e, sem árvores, não podemos fazer papel. A nuvem é essencial para que o papel exista. Se ela não estiver aqui, a folha de papel também não pode estar aqui. Logo, nós podemos dizer que a nuvem e o papel intersão. “Interser” é uma palavra que não está no dicionário ainda, mas se combinarmos o prefixo “inter” com o verbo “ser”, teremos este novo verbo “interser”. Sem uma nuvem, não podemos ter papel, assim podemos afirmar que a nuvem e a folha de papel intersão.
 

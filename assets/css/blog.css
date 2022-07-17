@@ -59,6 +59,10 @@ a:hover {
   color: #831a6c;
 }
 
+.nav-item a {
+  color: #FFF;
+}
+
 /* custom end */
 
 .icon-list {

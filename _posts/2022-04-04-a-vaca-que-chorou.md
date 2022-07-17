@@ -37,6 +37,6 @@ No final, ele me disse que ele agora era vegetariano.
 
 Esta história é verdadeira. Outros presos confirmaram isso. A vaca que chorou ensinou para um dos homens mais violentos o que significa se importar.
 
-Por
+`Por: Ajaan Brahmavamso`
 
-Ajaan Brahmavamso
+Referência: https://www.acessoaoinsight.net/arquivo_textos_theravada/vaca.php
