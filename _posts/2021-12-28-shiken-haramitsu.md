@@ -2,8 +2,7 @@
 layout: post
 title:  Shiken Haramitsu Daikoumyo
 date:   2021-12-28 20:18:00 +0000
-
-tags: virtudes valores
+tags: zen
 ---
 
 Shiken Haramitsu Daikoumyo é um mantra budista sagrado de 'nove sílabas' em japonês.

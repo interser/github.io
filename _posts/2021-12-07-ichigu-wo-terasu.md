@@ -2,8 +2,7 @@
 layout: post
 title:  Ichigu Wo Terasu
 date:   2021-12-07 20:18:00 +0000
-
-tags: virtudes valores
+tags: zen
 ---
 
 Por definição, Ichigu Wo Terasu 隅 を 照 ら す significa iluminar um canto ou ser uma luz que ilumina seus arredores. Esta filosofia tem suas origens no Budismo Mahāyāna, passada a eles através do Budismo Chinês, trazido pelo Budista Japonês Saichō (15 de setembro de 767 - 26 de junho de 822).
