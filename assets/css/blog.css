@@ -27,6 +27,10 @@ a:hover {
   background-color: #4e003c !important;
 }
 
+.master-head-quote {
+  color: #FFF; 
+}
+
 .post, .page {
   max-width: 780px;
   margin: 0 auto;
