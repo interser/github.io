@@ -1,9 +1,9 @@
-A Vaca Que Chorou
-
-Por
-
-Ajaan Brahmavamso
-
+---
+layout: post
+title: A Vaca Que Chorou
+date: 2022-04-04 20:18:0000
+tags: valores
+---
 
 Eu cheguei cedo para conduzir a sessão de meditação na prisão de segurança mínima. Um dos presos que eu nunca havia visto antes estava esperando para falar comigo. Ele era um sujeito gigantesco com cabelo e barba espessos e os braços tatuados; as cicatrizes no rosto revelavam que ele esteve envolvido em muitas brigas violentas. A aparência dele era tão amedrontadora que eu fiquei me perguntando porque ele estava querendo aprender a meditar. Ele não era o tipo. Eu estava errado, é claro.
 
@@ -36,3 +36,7 @@ Ele me disse que arremessou a sua arma e jurou aos guardas da prisão que eles p
 No final, ele me disse que ele agora era vegetariano.
 
 Esta história é verdadeira. Outros presos confirmaram isso. A vaca que chorou ensinou para um dos homens mais violentos o que significa se importar.
+
+Por
+
+Ajaan Brahmavamso
