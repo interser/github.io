@@ -2,7 +2,6 @@
 layout: post
 title:  Má Vontade
 date:   2022-01-04 20:18:00 +0000
-
 tags: virtudes valores
 ---
 

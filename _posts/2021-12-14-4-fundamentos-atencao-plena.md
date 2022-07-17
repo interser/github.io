@@ -2,7 +2,6 @@
 layout: post
 title:  Os 4 Fundamentos da Atenção Plena
 date:   2021-12-14 20:18:00 +0000
-
 tags: virtudes valores
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: mente"
-tag: mente
+title: "Tag: zen"
+tag: zen
 robots: noindex
 ---

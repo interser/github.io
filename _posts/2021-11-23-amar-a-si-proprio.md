@@ -2,7 +2,6 @@
 layout: post
 title:  Quando Me Amei De Verdade
 date:   2021-11-23 20:18:00 +0000
-
 tags: virtudes valores
 ---
 
