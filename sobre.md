@@ -12,7 +12,9 @@ A introspecção, aliada a meditação, possibilita ao indivíduo alcançar um e
 
 A maioria dos artigos aqui registrados, são ensinamentos derivados de diferentes escolas budistas, tendo em vista que a psicologia budista, desenvolvida por Buda a 2600 anos atrás, ainda é a resposta para a crise humanitária nos dias de hoje. Até mesmo grandes nomes da psiquiatria se surpreendem com os ensinamentos budistas, e com algum esforço e dedicação, você se surpreenderá também.
 
-`Interser` é um lindo conceito, foi criado por um grande mestre zen budista e ativista da paz chamado <a href="https://pt.wikipedia.org/wiki/Thich_Nhat_Hanh" target="_blank"> Thich Nhat Hanh </a> logo abaixo, compartilho um trecho de seus ensinamentos. 
+`Interser` é um lindo conceito, foi criado por um grande mestre zen budista e ativista da paz chamado <a href="https://pt.wikipedia.org/wiki/Thich_Nhat_Hanh" target="_blank"> Thich Nhat Hanh </a>.
+
+Abaixo, compartilho um trecho do ensinamentos de `Interser`.
 
 <br/>
 
