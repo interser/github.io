@@ -2,7 +2,6 @@
 layout: post
 title:  title
 date:   2021-10-03 20:18:00 +0100
-
 tags: virtudes valores
 ---
 
