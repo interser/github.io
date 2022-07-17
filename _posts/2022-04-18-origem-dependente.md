@@ -3,7 +3,7 @@ layout: post
 title: II. Interpretando a Origem Dependente
 date: 2022-04-18 20:18:0000
 tags: budismo
-published: true
+published: false
 ---
 Venerável P.A. Payutto
 Traduzido do Tailandês por Bruce Evans
