@@ -15,12 +15,10 @@ h1, h2, h3, h4, h5, h6 {
 a {
   text-decoration: none;
   cursor: pointer;
-  color: #4e003c;
 }
 
 a:hover {
   text-decoration: none;
-  color: #831a6c;
 }
 
 .bg-mine {
@@ -43,28 +41,9 @@ a:hover {
 }
 
 /* PAGINATION */
-.pagination {
+.paginator {
   margin-top: 40px;
-  margin-bottom: 40px;
-  float: left;
-}
-
-.pagination .btn {
-  margin-left: 30px;
-}
-
-.pagination-arrow-disabled {
-  text-decoration: none;
-  color: #cdcdcd;
-}
-
-.pagination-arrow-active {
-  text-decoration: none;
-  color: #831a6c;
-}
-
-.nav-item a {
-  color: #FFF;
+  margin-left: 10px;
 }
 
 /* custom end */

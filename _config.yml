@@ -10,7 +10,7 @@ permalink: /posts/:title
 
 plugins: [jekyll-seo-tag, jekyll-paginate, jekyll-watch, jekyll-sitemap]
 
-paginate: 20
+paginate: 1000
 
 whitelist:
   - jekyll-paginate-v2

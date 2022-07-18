@@ -2,8 +2,8 @@
 layout: default
 ---
 
-{% for post in paginator.posts %}
-    <a href="{{ post.url }}">
+
+    <!-- <a href="{{ post.url }}">
       <h4> {{ post.title }}  </h4>
       <p class="post-tags">
         [&nbsp;
@@ -13,46 +13,42 @@ layout: default
         {% endfor %}
         ]
       </p>
-      <!-- <small> {{ post.date | date_to_string }} </small> -->
+      <small> {{ post.date | date_to_string }} </small>
     </a>  
-    <hr/>
-{% endfor %}
+    <hr/> -->
 
- 
+    <div class="row">
+      {% for post in paginator.posts %}
+      <div class="col s12 m6 l4">
+        <div class="card">
+          <div class="card-image">
+            <img src="//cdn.shopify.com/s/files/1/1775/8583/t/1/assets/geometric-aquamarine.jpg?v=66721701265724502141487026013">
+            <!-- <span class="card-title">{{ post.title }}</span> -->
+          </div>
+          <div class="card-content">
+            <p>
+              {{ post.title }}
+            </p>
+          </div>
+          <div class="card-action">
+            <a href="{{ post.url }}">Ler Mais</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
  <!-- Pagination -->
- <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-arrow-active" href="/page{{paginator.next_page}}">
-      <svg xmlns="http://www.w3.org/2000/svg" width="42" height="32" fill="currentColor" class="bi bi-arrow-left-square" viewBox="0 0 16 16">
-        <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm11.5 5.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/>
-      </svg>
-    </a>
-  {% else %}
-    <span class="pagination-arrow-disabled">
-      <svg xmlns="http://www.w3.org/2000/svg" width="42" height="32" fill="currentColor" class="bi bi-arrow-left-square" viewBox="0 0 16 16">
-        <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm11.5 5.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/>
-      </svg>
-    </span>
-  {% endif %}
+ <!-- <div class="paginator">
+  {{paginator.previous_page}}
+  {{paginator.next_page}}
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-arrow-active" href="/">
-        <svg xmlns="http://www.w3.org/2000/svg" width="42" height="32" fill="currentColor" class="bi bi-arrow-right-square" viewBox="0 0 16 16">
-          <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm4.5 5.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/>
-        </svg>
-      </a>
-    {% else %}
-      <a class="pagination-arrow-active" href="/page{{paginator.previous_page}}">
-        <svg xmlns="http://www.w3.org/2000/svg" width="42" height="32" fill="currentColor" class="bi bi-arrow-right-square" viewBox="0 0 16 16">
-          <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm4.5 5.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/>
-        </svg>
-      </a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-arrow-disabled">
-      <svg xmlns="http://www.w3.org/2000/svg" width="42" height="32" fill="currentColor" class="bi bi-arrow-right-square" viewBox="0 0 16 16">
-        <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm4.5 5.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/>
-      </svg>
-    </span>
+    <a class="btn waves-effect waves-light purple darken-4" href="/page{{paginator.previous_page}}">
+      <i class="material-icons right">arrow_forward</i>
+    </a>    
+  {% else if paginator.next_page %}
+    <a class="btn waves-effect waves-light purple darken-4" href="/page{{paginator.next_page}}">
+      <i class="material-icons right">arrow_back</i>
+    </a>   
   {% endif %}
-</div>
+</div> -->
