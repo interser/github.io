@@ -29,12 +29,6 @@ a:hover {
   color: #FFF; 
 }
 
-.post, .page {
-  max-width: 780px;
-  margin: 0 auto;
-  color: var(--text-color);
-}
-
 .highlighter-rouge {
   color: #831a6c;
   font-weight: bolder;
