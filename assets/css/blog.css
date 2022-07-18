@@ -42,6 +42,7 @@ a:hover {
 
 .card-content {
   font-size: 12px;
+  font-weight: bold;
 }
 
 .card .card-image img {
