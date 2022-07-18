@@ -30,10 +30,3 @@ Hoje em dia, focamos a maior parte do nosso tempo na edição de vídeos educati
 A Sociedade Budista do Brasil é um grupo de praticantes da linhagem budista Theravada. Oferecemos ensinamentos sobre a doutrina budista, prática de meditação, retiros e muito mais. Venha nos visitar e praticar conosco, cercado de bons amigos, muita sabedoria e paz!
 
 <a href="https://sociedadebudistadobrasil.org/faca-parte/" target="_blank">https://sociedadebudistadobrasil.org/faca-parte/</a>
-
-
-`Brasil Paralelo`
-
-Orientados pela busca da verdade histórica, ancorada na realidade dos fatos, e sem qualquer tipo de ideologização na produção de conteúdo.
-
-<a href="https://www.brasilparalelo.com.br/" target="_blank">https://www.brasilparalelo.com.br/</a>
