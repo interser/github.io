@@ -3,7 +3,7 @@ layout: post
 title:  Receita Zen Para O Dia A Dia
 date:   2021-12-21 20:18:00 +0000
 tags: virtudes valores
-img: hhttps://cdn.pixabay.com/photo/2016/09/27/16/01/chestnut-1698730_1280.jpg
+img: https://cdn.pixabay.com/photo/2016/09/27/16/01/chestnut-1698730_1280.jpg
 ---
 
 Em verdade, em verdade vos digo, a menos que um grão de trigo caia na terra e morra, ele permanece sozinho; mas, se morrer, trará muitos frutos.

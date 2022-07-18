@@ -3,6 +3,7 @@ layout: post
 title:  Permanecer Com A Felicidade
 date:   2022-02-02 20:18:00 +0000
 tags: virtudes valores
+img: https://cdn.pixabay.com/photo/2022/06/23/22/18/squirrel-7280733_1280.jpg
 ---
 
 "Possuindo duas coisas, um discípulo permanece com a felicidade nesta vida - sem aflição, sem perturbação, sem angústia - e com a dissolução do corpo, após a morte um destino feliz pode ser esperado. Quais duas? Guardar as portas dos meios dos sentidos, e moderação ao comer. Possuindo essas duas coisas, um bhikkhu permanece com a felicidade nesta vida - sem aflição, sem perturbação, sem angústia - e com a dissolução do corpo, após a morte um destino feliz pode ser esperado."

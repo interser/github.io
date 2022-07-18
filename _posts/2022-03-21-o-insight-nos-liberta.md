@@ -3,6 +3,7 @@ layout: post
 title:  O Insight Nos Liberta
 date:   2022-03-21 20:18:0000
 tags: virtudes valores
+img: https://cdn.pixabay.com/photo/2014/05/26/13/32/butterfly-354528_1280.jpg
 ---
 
 Todos temos insights. Sabemos que o objeto do nosso desejo não é tão valioso. Sabemos que não queremos ser capturados. Sabemos que não queremos gastar todo nosso dinheiro, tempo e energia nisso. Ainda assim, não somos capazes de nos livrar do desejo. E isso acontece por não sabermos como aplicar nosso insight.

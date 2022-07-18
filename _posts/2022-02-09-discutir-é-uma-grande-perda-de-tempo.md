@@ -3,6 +3,7 @@ layout: post
 title:  Discutir É Uma Grande Perda De Tempo
 date:   2022-02-09 20:18:00 +0000
 tags: virtudes valores
+img: https://cdn.pixabay.com/photo/2016/10/01/20/54/mouse-1708347_1280.jpg
 ---
 
 “Se o adversário é inferior a ti, porque brigar;
