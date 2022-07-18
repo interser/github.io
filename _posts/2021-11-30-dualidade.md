@@ -4,6 +4,7 @@ title:  Dualidade
 date:   2021-11-30 20:18:00 +0000
 published: false
 tags: virtudes valores
+img: https://cdn.pixabay.com/photo/2016/02/17/19/08/lotus-1205631_1280.jpg
 ---
 
 A dualidade é um conceito que existe em todas as coisas da vida. Ela pode ser encontrada no nosso interior e também em nosso mundo exterior. A dualidade nos permite distinguir entre `certo e errado`, `dia e noite`, `alegria e tristeza`. É infinita a possibilidade de coisas que poderíamos citar baseado no conceito de dualidade.

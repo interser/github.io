@@ -3,6 +3,7 @@ layout: post
 title:  Os 4 Fundamentos da Atenção Plena
 date:   2021-12-14 20:18:00 +0000
 tags: virtudes valores
+img: https://cdn.pixabay.com/photo/2016/02/17/19/08/lotus-1205631_1280.jpg
 ---
 
 No Budismo da Tradição Theravada existem dois tipos fundamentais de meditação. Um deles, samatha, visa ao desenvolvimento da tranqüilidade através de estados de absorções meditativas (jhana) e o outro tipo, vipassana, visa conseguir a visão interna da verdadeira natureza das coisas. Essas duas formas de meditação de modo algum se excluem mutuamente; no entanto, a Meditação Vipássana (meditação da introspecção, da percepção) sempre foi tradicionalmente considerada como a mais elevada das duas.

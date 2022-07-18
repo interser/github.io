@@ -4,6 +4,7 @@ title:  A Joia Perdida
 date:   2021-11-09 20:18:00 +0000
 published: false
 tags: virtudes valores
+img: https://cdn.pixabay.com/photo/2016/02/17/19/08/lotus-1205631_1280.jpg
 ---
 
 A busca por muitos bens materiais gera uma aflição carregada por muitas pessoas, essas pessoas vivem longos anos de suas vidas cheias de frustração. Esse vazio, essa angústia, e essa falta de `"ter tudo aquilo que só o dinheiro pode comprar"`, corrói a alma da mesma forma que o sal quando é jogado sobre uma lesma.

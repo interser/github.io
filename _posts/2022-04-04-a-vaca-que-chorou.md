@@ -3,6 +3,7 @@ layout: post
 title: A Vaca Que Chorou
 date: 2022-04-04 20:18:0000
 tags: valores
+img: https://cdn.pixabay.com/photo/2022/06/25/23/41/ladybug-7284337_1280.jpg
 ---
 
 Eu cheguei cedo para conduzir a sessão de meditação na prisão de segurança mínima. Um dos presos que eu nunca havia visto antes estava esperando para falar comigo. Ele era um sujeito gigantesco com cabelo e barba espessos e os braços tatuados; as cicatrizes no rosto revelavam que ele esteve envolvido em muitas brigas violentas. A aparência dele era tão amedrontadora que eu fiquei me perguntando porque ele estava querendo aprender a meditar. Ele não era o tipo. Eu estava errado, é claro.

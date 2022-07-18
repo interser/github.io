@@ -4,6 +4,7 @@ title: Quando Me Amei De Verdade
 date: 2021-09-07 20:18:00 +0000
 tags: virtudes valores
 published: true
+img: https://cdn.pixabay.com/photo/2016/04/18/22/05/seashells-1337565_1280.jpg
 ---
 
 `Quando Me Amei de Verdade`: É um livro muito bonito escrito por Kim McMillen, contém uma bela coleção de sabedoria que é surpreendente em sua simplicidade. Ao compartilhar suas idéias, a autora também nos mostra como sentir a mesma sensação de paz e alegria silenciosa que iluminou sua vida. Abaixo deixo uma amostra de suas frases.

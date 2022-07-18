@@ -4,6 +4,7 @@ title:  Sociedade Do Caos
 date:   2021-10-26 20:18:00 +0000
 published: false
 tags: virtudes valores
+img: https://cdn.pixabay.com/photo/2016/02/17/19/08/lotus-1205631_1280.jpg
 ---
 
 A sociedade é formada por dois tipos de consciência, a consciência individual e a consciência coletiva, portanto, ambos são interdependentes.

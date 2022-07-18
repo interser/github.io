@@ -4,6 +4,7 @@ title:  Miséria Emocional
 date:   2021-11-16 20:18:00 +0000
 published: false
 tags: virtudes valores
+img: https://cdn.pixabay.com/photo/2016/02/17/19/08/lotus-1205631_1280.jpg
 ---
 
 Vazias em suas atitudes e gananciosas pelo luxo, cheias de cobiça e ofuscadas pelas nuvens da ignorância, assim vive a massa de pessoas no ciclo da miséria emocional. Sofrem sem saberem porque, buscam todas as formas de prazeres como uma válvula de escape para suas aflições, e no final, a recompensa vem em forma de sofrimento. Vivem sem propósitos, com almas enfraquecidas, se iludem achando que estão livres, mas na verdade vivem presas nos vícios que amortecem suas dores. A lucidez foi perdida, não existe amor próprio, se destroem no sexo, nas drogas e  no alcool e nunca preecheem o vazio de uma vida deprimida.
