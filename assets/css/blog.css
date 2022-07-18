@@ -46,6 +46,11 @@ a:hover {
   margin-left: 10px;
 }
 
+.card-content {
+  word-wrap: break-word;
+  width: 100%;
+}
+
 /* custom end */
 
 .icon-list {
