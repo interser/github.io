@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sobre O Amor - Part I
-date: 0000-00-00 20:18:00 +0100
+title: Sobre O Amor - Part II
+date: 2022-08-14 20:18:00 +0100
 tags: amor
 img: ###
 ---
