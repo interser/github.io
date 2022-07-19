@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: budismo"
-tag: budismo
+title: "Tag: amor"
+tag: amor
 robots: noindex
 ---

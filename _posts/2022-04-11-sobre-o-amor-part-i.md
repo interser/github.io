@@ -2,7 +2,7 @@
 layout: post
 title: Sobre O Amor - Part I
 date: 2022-04-11 20:18:0000
-tags: valores
+tags: amor
 img: https://cdn.pixabay.com/photo/2015/04/08/15/09/daisies-712892_1280.jpg
 ---
 
