@@ -3,7 +3,7 @@ layout: post
 title: Sobre O Amor - Part II
 date: 2022-08-14 20:18:00 +0100
 tags: amor
-img: ###
+img: https://cdn.pixabay.com/photo/2016/02/10/21/57/heart-1192662_1280.jpg
 ---
 
 Ao tentarmos compreender o que é o amor, estas são as questões que podemos colocar a nós próprios: O que é o amor? Quais são as vantagens e desvantagens do amor? Como é que o amor surge? Como é que se mantém o amor? Como é que o amor se desfaz e termina? O que são as impurezas do amor? O que é que conserva e purifica o amor? Como nos devemos comportar em relação ao amor de forma a maximizar a felicidade e minimizar a dor? 
