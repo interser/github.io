@@ -2,7 +2,7 @@
 layout: post
 title:  Os 4 Fundamentos da Atenção Plena
 date:   2021-12-14 20:18:00 +0000
-tags: virtudes valores
+tags: budismo
 img: https://cdn.pixabay.com/photo/2021/07/26/22/04/sea-shell-6495338_1280.jpg
 ---
 
