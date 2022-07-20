@@ -2,7 +2,7 @@
 layout: post
 title:  Aspirando Felicidade
 date:   2022-02-28 20:18:0000
-tags: virtudes valores
+tags: virtudes
 img: https://cdn.pixabay.com/photo/2022/07/12/08/15/grass-7316770_1280.jpg
 ---
 

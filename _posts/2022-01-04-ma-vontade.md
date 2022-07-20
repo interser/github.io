@@ -2,7 +2,7 @@
 layout: post
 title:  Má Vontade
 date:   2022-01-04 20:18:00 +0000
-tags: virtudes valores
+tags: virtudes
 img: https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821_1280.jpg
 ---
 

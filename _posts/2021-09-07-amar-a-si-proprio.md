@@ -2,7 +2,7 @@
 layout: post
 title: Quando Me Amei De Verdade
 date: 2021-09-07 20:18:00 +0000
-tags: virtudes valores
+tags: valores
 published: true
 img: https://cdn.pixabay.com/photo/2016/04/18/22/05/seashells-1337565_1280.jpg
 ---
