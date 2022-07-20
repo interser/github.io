@@ -3,7 +3,7 @@ layout: post
 title: Sobre O Amor - Part IV
 date: 2022-09-02 20:18:00 +0100
 tags: amor
-img: https://cdn.pixabay.com/photo/2015/02/05/01/33/valentines-day-624440_1280.jpg
+img: https://cdn.pixabay.com/photo/2017/04/25/06/15/father-and-son-2258681_1280.jpg
 ---
 
 O tipo de amor pessoal que sentimos desde o início das nossas vidas é o amor entre pais e filhos. Ao crescermos vemos a presença dos nossos pais como algo permanente, pois eles aparentam ser um elemento fixo no mundo tal como a terra, a água, o fogo e o ar. Sentimos que temos direito ao amor dos nossos pais. Dada a propensão à condescendência, na sociedade tailandesa enfatiza-se grandemente a gratidão, encorajando as pessoas a lembrarem-se o quanto devem aos seus pais e a sentirem a alegria de retribuir a bondade dos mesmos. Assim, quando por fim os nossos pais nos deixarem, não necessitamos de manchar a nossa tristeza com remorsos. As nossas memórias serão repletas de orgulho, por termos cumprido os nossos deveres filiais.
