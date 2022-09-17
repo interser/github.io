@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sobre O Amor - Part IX
-date: 2022-09-30 20:18:00 +0100
+date: 2022-10-06 20:18:00 +0100
 tags: amor
 img: https://cdn.pixabay.com/photo/2021/06/02/15/25/daisy-6304767_1280.jpg
 published: true
