@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sobre O Amor - Part VII
+title: Sobre O Amor - Part VIII
 date: 2022-09-30 20:18:00 +0100
 tags: amor
 img: https://cdn.pixabay.com/photo/2018/05/12/08/21/daisy-3392654_1280.jpg
