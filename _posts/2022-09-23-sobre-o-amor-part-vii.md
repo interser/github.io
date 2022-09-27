@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sobre O Amor - Part VII
-date: 2022-09-30 20:18:00 +0100
+date: 2022-09-23 20:18:00 +0100
 tags: amor
 img: https://cdn.pixabay.com/photo/2015/02/10/17/41/red-631349_1280.jpg
 published: true
