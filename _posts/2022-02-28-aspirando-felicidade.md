@@ -10,7 +10,8 @@ Aspirando três tipos de felicidade, uma pessoa sábia deveria observar a condut
 
 <pre>
 Aspirando por três tipos de felicidade
-uma pessoa sábia deveria observar a conduta virtuosa:
+uma pessoa sábia deveria observar 
+a conduta virtuosa:
 elogios, riqueza,
 deliciar-se no paraíso mais além.
 
@@ -39,7 +40,8 @@ o mesmo ocorre com aqueles que vão atrás dos tolos.
 Mas alguém que espalhe um pó perfumado
 numa folha larga de uma árvore
 fará com que a folha fique perfumada;
-o mesmo ocorre com aqueles que vão atrás dos sábios.
+o mesmo ocorre com aqueles que 
+vão atrás dos sábios.
 
 Portanto, tal como a folha larga,
 compreendendo os resultados para si mesmo,
