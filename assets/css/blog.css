@@ -45,16 +45,6 @@ a:hover {
   margin-left: 10px;
 }
 
-.card-content {
-  font-size: 12px;
-  font-weight: bold;
-}
-
-.card .card-image img {
-  height: 250px;
-  width: 100%;
-}
-
 .form-search {
   width: 20%;
 }
@@ -190,4 +180,15 @@ header.masthead .post-heading .meta a {
   header.masthead .post-heading .subheading {
     font-size: 30px;
   }
+}
+
+.card-content {
+  
+  font-weight: bold;
+}
+
+.card-image img {
+  display: block;
+  width: 400px;
+  height: 220px;
 }
