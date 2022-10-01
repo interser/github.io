@@ -3,7 +3,7 @@ layout: post
 title: Renúncia
 date: 2022-10-27 20:18:00 +0100
 tags: paz
-img: 
+img: https://cdn.pixabay.com/photo/2020/10/12/22/12/color-pop-5650322_1280.jpg
 published: true
 ---
 
