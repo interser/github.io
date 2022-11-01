@@ -7,9 +7,10 @@ layout: default
       <div class="card">
         <div class="card-image">
           <img src="{{post.img}}" alt="Post Image">
+          <span class="card-title">{{ post.title }}</span>
         </div>
         <div class="card-content">
-          <span>{{ post.title }}</span>
+          
           <p>{{ post.date | date: "%d/%m/%Y" }}</p>
           <p>
             [&nbsp;

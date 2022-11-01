@@ -1,6 +1,9 @@
 #!/bin/sh
 
-python3 tag_generator.py
+git config user.email "tiagotg.ribeiro@gmail.com"
+git config user.name "Tiago"
+
+python tag_generator.py
 
 sleep 2
 
