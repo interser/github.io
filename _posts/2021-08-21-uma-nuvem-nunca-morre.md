@@ -2,7 +2,7 @@
 layout: post
 title: Uma Nuvem Nunca Morre
 date: 2021-08-21 20:18:00 +0000
-tags: valores
+tags: paz
 published: true
 img: https://cdn.pixabay.com/photo/2020/04/17/12/28/cloud-5055011_1280.jpg
 ---
