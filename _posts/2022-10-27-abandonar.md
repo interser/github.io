@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Renúncia
+title: Abandonar
 date: 2022-10-27 20:18:00 +0100
 tags: paz
 img: https://cdn.pixabay.com/photo/2015/09/09/19/15/bird-932704_1280.jpg
