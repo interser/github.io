@@ -14,4 +14,4 @@ https://analytics.google.com/analytics/web/#/p321186177/reports/reportinghub
 gem install jekyll bundler
 
 # run local server
-sudo bundle exec jekyll serve --future
+bundle exec jekyll serve --future
