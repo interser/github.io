@@ -2,7 +2,7 @@
 layout: post
 title:  O Insight Nos Liberta
 date:   2022-03-21 20:18:0000
-tags: virtudes valores
+tags: valores
 img: https://cdn.pixabay.com/photo/2014/05/26/13/32/butterfly-354528_1280.jpg
 ---
 

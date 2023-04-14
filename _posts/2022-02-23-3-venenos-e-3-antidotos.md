@@ -2,7 +2,7 @@
 layout: post
 title:  3 Venenos E 3 Antídotos
 date:   2022-02-23 20:18:00 +0000
-tags: virtudes valores
+tags: valores
 img: https://cdn.pixabay.com/photo/2016/09/04/12/05/sunflower-1643794_1280.jpg
 ---
 

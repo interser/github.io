@@ -2,7 +2,7 @@
 layout: post
 title:  A Verdadeira Felicidade
 date:   2022-03-28 20:18:0000
-tags: virtudes valores
+tags: valores
 img: https://cdn.pixabay.com/photo/2014/07/16/05/18/beach-394503_1280.jpg
 ---
 
