@@ -2,7 +2,7 @@
 layout: post
 title:  A Hora Do Lobo
 date:   2022-01-18 20:18:00 +0000
-tags: virtudes valores
+tags: valores
 img: https://cdn.pixabay.com/photo/2016/11/22/19/36/arctic-wolf-1850247_1280.jpg
 ---
 
