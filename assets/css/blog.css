@@ -2,7 +2,16 @@
 html,
 body {
     margin: 0;
-    background-color: #E8EDE7;
+    background-color: #E5E3E4;
+    background: url("/assets/img/zen-garden.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.box {
+    margin-top: 15px;
 }
 
 a {
