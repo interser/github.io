@@ -5,13 +5,12 @@ date:   2021-10-03 20:18:00 +0100
 tags: virtudes valores
 ---
 
-
 Não se associe com amigos prejudiciais;
 não se associe com pessoas não virtuosas.
 associe-se com amigos admiráveis;
 associe-se com as pessoas verdadeiras.
 
-[Nota Verso 78] Mitta (amigo): na literatura Budista o conceito de amigo é extensivamente analisado. Nos comentários sete tipos de amigos são mencionados. Eles são:
+Mitta (amigo): na literatura Budista o conceito de amigo é extensivamente analisado. Nos comentários sete tipos de amigos são mencionados. Eles são:
 
 (1) Pana sakha: aqueles que somente são amigáveis bebendo em bares; (2) Sammiya sammiyo: aqueles que somente são amigáveis quando você os encontra; (3) Atthesu jatesu: aqueles que somente são amigáveis quando lhes convém; (4) Upakaraka: aqueles amigos que são verdadeiros amigos quando se precisa deles; (5) Samana sukha dukkha: aqueles que estão sempre com você, tanto na alegria como na tristeza; (6) Atthakkayi: aqueles bons amigos que o apoiam ao longo do caminho para o progresso espiritual, dissuadindo-o do que não é hábil; (7) Anukampaka: aqueles bons amigos que ficam tristes quando você está sofrendo, mas que ficam muito felizes quando você está bem. Ele não permite que outros falem mal a seu respeito e elogia aqueles que falam coisas boas a seu respeito. Um bom amigo é um kalyana mitta (amigo admirável). Papa mitta (amigo prejudicial) é aquele que o leva àquilo que não é hábil. Veja no glossário a definição de kalyanamitta.
 
