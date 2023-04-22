@@ -3,8 +3,7 @@ layout: post
 title: Uma perspectiva budista sobre a economia e o alívio da pobreza
 date: 2023-02-28 20:18:00 +0100
 tags: valores
-img: https://cdn.pixabay.com/photo/2016/07/29/06/08/man-1550501_1280.jpg
-published: true
+published: false
 ---
 
 A economia desempenha um papel significativo na vida da maioria das pessoas comuns. Vários ensinamentos do Buda relacionados à riqueza material – sua aquisição e produção – têm relevância na economia atual. Para ajudar a melhorar a qualidade de vida socioeconômica das pessoas, o Buda pronunciou alguns suttas que estão registrados em vários ensinamentos do cânone Pali. Estes podem ser tecnicamente considerados a reflexão do Buda sobre economia.
