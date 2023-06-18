@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Equanimidade"
-tag: Equanimidade
+title: "Tag: equanimidade"
+tag: equanimidade
 robots: noindex
 ---
