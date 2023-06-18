@@ -3,7 +3,7 @@ layout: post
 title: Os Oito Ventos Mundanos
 date: 2023-03-14 20:18:00 +0000
 tags: equanimidade
-published: false
+published: true
 ---
 
 
