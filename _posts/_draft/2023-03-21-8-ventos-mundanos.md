@@ -6,8 +6,6 @@ tags: equanimidade
 published: true
 ---
 
-Aṅguttara Nikāya 8.6
-
 Lokavipatti Sutta
 
 Os Defeitos do Mundo
