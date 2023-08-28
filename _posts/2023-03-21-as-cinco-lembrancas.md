@@ -2,7 +2,7 @@
 layout: post
 title: As Cinco Lembranças
 date: 2023-03-21 20:18:00 +0000
-tags: 
+tags: equanimidade
 published: true
 ---
 
