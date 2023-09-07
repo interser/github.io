@@ -1,7 +1,7 @@
 +++
 title = 'A Culpa É Da Mente'
 date= 2023-03-07 20:18:00
-draft = true
+draft = false
 +++
 
 Audio extraído de uma conversa sobre o Dhamma proferido pelo Ajahn Mudito da Sociedade Budista do Brasil.

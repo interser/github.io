@@ -1,7 +1,7 @@
 +++
 title = 'Renúncia'
 date= 2023-01-10 20:18:00
-draft = true
+draft = false
 +++
 
 As vezes damos conta que os momentos mais felizes, aquelas situações nas quais chegamos mais próximo da real felicidade, acontecem quando sentimos contentamento. Descobrimos que na vida podemos ser felizes com muito pouco. Na verdade, quanto menos temos, mais felizes podemos ser. É por isso que o caminho da renúncia e do abandono supera o do desejo. A renúncia conduz à paz.

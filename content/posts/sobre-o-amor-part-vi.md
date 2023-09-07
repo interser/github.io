@@ -1,7 +1,7 @@
 +++
 title = 'Sobre O Amor - Part VI'
 date= 2022-09-16 20:18:00
-draft = true
+draft = false
 +++
 
 

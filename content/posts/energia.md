@@ -1,7 +1,7 @@
 +++
 title = 'Energia'
 date= 2023-01-24 20:18:00
-draft = true
+draft = false
 +++
 
 E o que é a faculdade da energia ? Neste caso uma pessoa permanece com a sua energia desperta para o abandono de qualidades mentais prejudiciais e para a obtenção de qualidades mentais benéficas; ele é decidido, firme no seu esforço, sem se esquivar das suas responsabilidades com relação ao cultivo de qualidades mentais benéficas. 

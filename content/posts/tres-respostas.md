@@ -1,7 +1,7 @@
 +++
 title = 'As Três Respostas'
 date= 2022-12-01 20:18:00
-draft = true
+draft = false
 +++
 
 Para terminar esta carta, eu gostaria de contar uma estória narrada por Tolstoy, de que você e nossos amigos na Escola irão gostar. É a estória das três perguntas do imperador. Ele poderia continuar a reinar satisfeito, sem o risco de cometer nenhuma falha, somente se conseguisse a resposta para as seguintes perguntas:

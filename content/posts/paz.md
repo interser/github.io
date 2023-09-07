@@ -1,7 +1,7 @@
 +++
 title = 'Conquistar A Paz'
 date= 2022-10-13 20:18:00
-draft = true
+draft = false
 +++
 
 Para conquistar a paz e a felicidade é necessário esforço incansável com o próprio coração. Não é possível alcançá-las através da proliferação, tentando obter mais, só querendo menos. Tornando-nos cada vez mais vazios, até que reste apenas um espaço vazio, amplo, para ser preenchido pela paz e a felicidade. Enquanto os nossos corações estiverem repletos com gostos e desgostos, como poderão a paz e a felicidade encontrar algum espaço? 

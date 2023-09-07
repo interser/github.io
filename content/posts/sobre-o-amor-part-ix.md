@@ -1,7 +1,7 @@
 +++
 title = 'Sobre O Amor - Part IX'
 date= 2022-10-06 20:18:00
-draft = true
+draft = false
 +++
 
 O Buddha ensinou que a principal condição para um casal viver junto e feliz, é partilharem os mesmos padrões de conduta, de crenças e de valores. Naturalmente, somos aconselhados a ponderar bem este ponto, de preferência antes e não depois de concordarmos juntar a nossa vida à do outro. Talvez possamos, através do amor, ser capazes de aceitar diferenças fundamentais de opinião e de conduta no nosso companheiro, mas não será fácil; e as coisas tornam-se mais complicadas quando as crianças entram na equação. 

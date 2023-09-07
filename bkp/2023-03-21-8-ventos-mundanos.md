@@ -3,7 +3,7 @@
 title= Os Oito Ventos Mundanos - Sutta
 date= 2023-03-21T15:35:21-03:00
 tags= equanimidade
-draft = true
+draft = false
 +++
 
 Lokavipatti Sutta

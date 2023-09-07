@@ -1,7 +1,7 @@
 +++
 title = 'A amendoeira no seu jardim'
 date= 2022-11-17 20:18:00
-draft = true
+draft = false
 +++
 
 Falei sobre a contemplação na interdependência. Sei, Quang, que você entende que os métodos para se encontrar a verdade devem ser vistos como meios e não como fim. Convém no entanto que fique claro aos praticantes que a meditação na interdependência é aplicada para remover as falsas barreiras da discriminação e capacitá-los assim a ingressar na harmonia universal da vida. Seu propósito não é criar ou aderir a algum sistema filosófico. 
