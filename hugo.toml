@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'pt-BR'
 title = 'Interser'
-theme = 'ananke'
+theme = ["hugo-embed-pdf-shortcode", "ananke", "hugo-shortcode-roneo-collection"]
+enableInlineShortcodes = true
