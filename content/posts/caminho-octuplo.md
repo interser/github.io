@@ -16,5 +16,3 @@ O nobre caminho óctuplo é um treinamento para erradicar a ganância, o ódio e
 <br/>
 
 {{< embed-pdf url="/pdf/O-Nobre-Caminho-Octuplo.pdf" hidePaginator="true">}}
-
-<iframe src="/pdf/O-Nobre-Caminho-Octuplo.pdf" width="100%" height="1000" > </iframe>
