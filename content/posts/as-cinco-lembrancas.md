@@ -2,6 +2,7 @@
 title = 'As Cinco Lembranças'
 date= 2023-03-21 20:18:00
 draft = false
+featured_image = '/images/lembrancas.jpeg'
 +++
 
 

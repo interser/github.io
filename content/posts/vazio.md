@@ -1,7 +1,7 @@
 +++
 title = 'Vazio'
 date= 2022-12-27T15:35:21-03:00
-draft = false
+draft = true
 +++
 
 A vacuidade é um modo de percepção, uma maneira de ver a experiência. Não acrescenta nada e não tira nada dos dados brutos dos eventos físicos e mentais. Você olha para os eventos na mente e nos sentidos sem pensar se há algo por trás deles.

@@ -2,6 +2,7 @@
 title = 'Os Oito Ventos Mundanos'
 date= 2023-03-14T15:35:21-03:00
 draft = false
+featured_image = '/images/ventos.jpeg'
 +++
 
 

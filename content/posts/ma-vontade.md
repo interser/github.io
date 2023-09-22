@@ -1,6 +1,7 @@
 +++
 title = 'Má Vontade'
-date=   2022-01-04 20:18:00
+date = 2022-01-04 20:18:00
+draft = true
 +++
 
 Seis coisas levam ao abandono da má-vontade:

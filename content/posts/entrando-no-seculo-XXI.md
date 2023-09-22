@@ -2,6 +2,7 @@
 title = 'Entrando No Seculo XXI'
 date = 2023-09-21T18:27:15-03:00
 draft = false
+featured_image = '/images/21.jpeg'
 +++
 
 A palavra “política” está sendo muito usada, hoje em dia. Parece haver uma política para quase tudo. Eu ouvi dizer que as ditas nações desenvolvidas estão estudando um programa político para o lixo a fim de enviar, em enormes barcaças, os seus lixos ao Terceiro Mundo.

@@ -2,6 +2,7 @@
 title = 'O Rio'
 date = 2023-09-21T18:24:05-03:00
 draft = false
+featured_image = '/images/rio.jpeg'
 +++
 
 Era uma vez um belo rio que passeava entre colinas, florestas e prados. Ele começou como um alegre córrego d ́água, uma fonte sempre dançante e cantante descendo ligeiro desde o topo da montanha. O rio era muito jovem nesse tempo, e desde que chegou à planície, diminuiu sua velocidade. Ele pensava em ir até o oceano. Na medida em que crescia, ele aprendeu a ter um lindo visual, dando voltas graciosamente entre as colinas e prados.

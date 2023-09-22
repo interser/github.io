@@ -1,7 +1,7 @@
 +++
 title = 'Amor Bondade'
 date= 2023-02-07 20:18:00
-draft = false
+draft = true
 +++
 
 O ódio, deveras, nunca, até agora, dissipou o ódio. Só o amor dissipa o ódio. O ódio só leva à vingança e a vingança leva a mais ódio. Um ciclo de sofrimento é colocado em movimento e pode continuar indefinidamente. Muitos lugares no mundo hoje são uma triste evidência dessa verdade.

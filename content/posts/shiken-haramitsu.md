@@ -1,6 +1,6 @@
 +++
 title = 'Shiken Haramitsu Daikoumyo'
-date=   2021-12-28 20:18:00
+date =  2021-12-28 20:18:00
 +++
 
 Shiken Haramitsu Daikoumyo é um mantra budista sagrado de 'nove sílabas' em japonês.
