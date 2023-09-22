@@ -1,7 +1,7 @@
 +++
 title = 'Equanimidade'
 date= 2023-02-21 20:18:00
-draft = false
+draft = true
 +++
 
 Nosso velho amigo sofrimento surge na mente como insatisfação causada por todos os tipos de estímulos. Pode ser disparado pelo desconforto corporal, mas mais freqüentemente é causado pelas próprias aberrações e convulsões da mente. A mente cria sofrimento e é por isso que realmente precisamos vigiar e cuidar das nossas mentes.

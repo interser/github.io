@@ -1,6 +1,7 @@
 +++
 title = 'Confusão'
-date=   2022-02-16T15:35:21-03:00
+date = 2022-02-16T15:35:21-03:00
+draft = true
 +++
 
 Isto foi dito pelo Abençoado, dito pelo Arahant, assim ouvi: “Há esses três tipos de pensamento inábil que produzem confusão, produzem falta de visão, produzem falta de conhecimento, conduzem à cessação da sabedoria, contribuem para a aflição e não conduzem a nibbana. Quais três? Pensamento imbuído de sensualidade ... Pensamento imbuído de má vontade ... Pensamento imbuído de crueldade produz confusão, produz falta de visão, produz falta de conhecimento, conduz à cessação da sabedoria, contribui para a aflição e não conduz a nibbana. Esses são os três tipos de pensamento inábil que produzem confusão, produzem falta de visão, produzem falta de conhecimento, conduzem à cessação da sabedoria, contribuem para a aflição e não conduzem a nibbana.

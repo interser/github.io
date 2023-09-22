@@ -1,7 +1,7 @@
 +++
 title = 'O Nobre Caminho Óctuplo'
 date= 2022-12-06 20:18:00
-draft = false
+draft = true
 +++
 
 O Nobre Caminho Óctuplo é, nos ensinamentos do Buda, um conjunto de oito práticas que correspondem à quarta nobre verdade do budismo. 

@@ -1,7 +1,7 @@
 +++
 title = 'Paciência'
 date= 2023-01-31 20:18:00
-draft = false
+draft = true
 +++
 
 É através da adversidade que a tolerância de uma pessoa pode ser conhecida e somente após um longo período de tempo, não um período curto; por alguém que seja atento, não por alguém que seja desatento; por alguém que tenha sabedoria, não por alguém que não tenha sabedoria. Assim foi dito e em referência a que foi dito isto ?

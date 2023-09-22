@@ -1,7 +1,7 @@
 +++
 title = 'Ondas do nascimento e da morte'
 date= 2022-11-10 20:18:00
-draft = false
+draft = true
 +++
 
 Analisando a situação em que vive o mundo agora, nós nos defrontamos diariamente com a morte. Quantas pessoas já deram suas vidas ? Pessoas que são assassinadas, mortas em acidentes, numa doença maligna ou até nas frentes de combate de guerra, é impossível ignorar a morte. 

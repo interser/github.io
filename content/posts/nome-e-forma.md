@@ -2,6 +2,7 @@
 title = 'Nome e Forma'
 date= 2022-12-20T15:35:21-03:00
 draft = false
+featured_image = '/images/nome-forma.jpeg'
 +++
 
 Em uma ocasião, o Abençoado entrou no salão de assembléia e os irmãos silenciaram sua conversa. Depois de cumprimentá-lo com as mãos entrelaçadas, eles se sentaram e se recompuseram. Então o Abençoado disse: "Suas mentes estão inflamadas com intenso interesse; qual foi o tema de sua discussão?"

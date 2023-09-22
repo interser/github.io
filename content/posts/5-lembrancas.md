@@ -2,6 +2,7 @@
 title = '5 Lembranças'
 date= 2021-11-02T15:35:21-03:00
 featured_image = '/images/lembrancas.jpeg'
+draft = true
 +++
 
 **1. Envelhecer é parte da minha natureza. Não há como escapar do envelhecimento;**
