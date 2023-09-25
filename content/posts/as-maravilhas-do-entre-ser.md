@@ -1,7 +1,7 @@
 +++
 title = 'As Maravilhas Do Entre Ser'
 date = 2023-09-23T17:54:10-03:00
-draft = true
+draft = false
 featured_image = '/images/as-maravilhas-do-entreser.jpeg'
 +++
 
