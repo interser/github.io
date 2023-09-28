@@ -2,6 +2,7 @@
 title = 'A Hora E Agora'
 date = 2023-09-28T15:47:32-03:00
 draft = false
+featured_image = '/images/a-hora-e-agora.jpeg'
 +++
 
 Algumas tartarugas vivem trezentos ou quatrocentos anos, e algumas
