@@ -1,7 +1,7 @@
 +++
 title = 'O Lugar Da Frescura'
 date = 2023-09-30T13:53:50-03:00
-draft = true
+draft = false
 featured_image = '/images/frescura.jpeg'
 +++
 
