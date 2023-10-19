@@ -2,6 +2,7 @@
 title = 'Água mais clara, grama mais verde'
 date= 2022-11-24 20:18:00
 draft = false
+featured_image = '/images/grass_water.jpeg'
 +++
 
 Buda disse certa vez que a questão da vida e da morte é a própria questão do despertar. Estar ou não estar alguém vivo depende de ele estar ou não com a mente alerta. No Sutra Samyutta Nikaya ele conta uma estória: "Famosa dançarina recém-chegada a uma pequena aldeia era recebida nas ruas pelo povo que se aglomeravam para vê-la. Nesse momento, um prisioneiro era obrigado a atravessar as ruas, carregando sobre a cabeça um pote de óleo, cheio até a borda. Toda sua atenção tinha que ser concentrada em equilibrar o pote com firmeza, pois o soldado que caminhava atrás dele tinha ordem de desembainhar a espada e cortar-lhe a cabeça, caso uma gota de óleo fosse derramada. Ao chegar a este ponto da narração, Buda perguntou aos discípulos: "Acham vocês que o nosso prisioneiro foi capaz de manter toda sua atenção concentrada no pote de óleo, e que sua mente não se desviou para arriscar uma olhadela à famosa dançarina, ou às pessoas que, fazendo tamanha algazarra, poderiam dar-lhe um esbarrão ?"

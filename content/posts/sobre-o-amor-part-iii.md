@@ -1,6 +1,7 @@
 +++
 title = 'Sobre O Amor - Part III'
 date= 2022-08-25 20:18:00
+featured_image = '/images/amor.jpeg'
 +++
 
 Os ensinamentos do Buddha sugerem duas significantes desvantagens em relação ao amor mundano:

@@ -1,6 +1,7 @@
 +++
 title = 'Sobre O Amor - Part V'
 date= 2022-09-09 20:18:00
+featured_image = '/images/amor.jpeg'
 +++
 
 O tipo de amor em que as pessoas demonstram mais interesse é sem dúvida o amor romântico. Quase toda a gente espera ter a sorte de encontrar a sua alma gémea ou um bom companheiro para a vida e depois viverem felizes para sempre. Amar alguém verdadeiramente e ser verdadeiramente amado por essa pessoa é um dos sonhos mais populares. No entanto, o querer amar e ser amado desta forma vem geralmente acompanhado de impurezas como a ilusão e o desejo sensual. Por conseguinte, é vital adquirir maestria em não sofrermos excessivamente quando amamos ou somos amados.
