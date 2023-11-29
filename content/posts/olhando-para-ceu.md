@@ -1,5 +1,5 @@
 +++
-title = 'Olhando Para Ceu'
+title = 'Olhando Para O Ceu'
 date = 2023-11-29T18:22:29-03:00
 draft = false
 featured_image = '/images/olhando-para-ceu.jpeg'
