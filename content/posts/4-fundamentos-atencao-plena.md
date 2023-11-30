@@ -1,7 +1,7 @@
 +++
 title = 'Os 4 Fundamentos da Atenção Plena'
 date=   2021-12-14T15:35:21-03:00
-draft = false
+draft = true
 featured_image = '/images/fundamentos-atencao-plena.jpeg'
 +++
 
