@@ -1,6 +1,6 @@
 +++
 title = 'O Dia Do Seu Nascimento'
-date = 2023-11-30T17:55:02-03:00
+date = 2023-12-06T17:55:02-03:00
 draft = false
 featured_image = '/images/o-dia-do-seu-nascimento.jpeg'
 +++
