@@ -1,6 +1,7 @@
 +++
 title = 'A Verdadeira Felicidade'
 date=   2022-03-28T15:35:21-03:00
+featured_image = '/images/a-verdadeira-felicidade.jpeg'
 +++
 
 Nossa qualidade de vida e nossa verdadeira felicidade não dependem de condições ou provas externas. Não dependem de quanto dinheiro temos, de qual é o nosso trabalho e de como é a nossa casa. Em Plum Village, nenhum dos monges tem conta bancária, cartão de crédito ou salário, e ainda assim vivemos muito felizes. Pelos padrões de vida norte-americanos, não somos pessoas normais. Porém, somos muito felizes com nossa vida simples e com a chance que temos de ajudar aos demais e servir ao mundo.

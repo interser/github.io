@@ -1,6 +1,7 @@
 +++
 title = 'Discutir É Uma Grande Perda De Tempo'
 date=   2022-02-09 20:18:00
+featured_image = '/images/discutir-perca-tempo.jpeg'
 +++
 
 “Se o adversário é inferior a ti, porque brigar;
