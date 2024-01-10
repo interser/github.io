@@ -1,6 +1,6 @@
 +++
 title = 'Armadilha'
-date = 2024-01-13T15:35:21-03:00
+date = 2024-01-02T15:35:21-03:00
 featured_image = '/images/antidoto.jpeg'
 +++
 
