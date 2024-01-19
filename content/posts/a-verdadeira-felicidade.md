@@ -1,6 +1,6 @@
 +++
 title = 'A Verdadeira Felicidade'
-date=   2022-03-28T15:35:21-03:00
+date = 2022-03-28T15:35:21-03:00
 featured_image = '/images/a-verdadeira-felicidade.jpeg'
 +++
 

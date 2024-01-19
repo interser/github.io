@@ -1,6 +1,6 @@
 +++
 title = 'Generosidade'
-date= 2022-01-25 20:18:00
+date = 2022-01-25 20:18:00
 draft = true
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = 'Equanimidade'
-date= 2023-02-21 20:18:00
+date = 2023-02-21 20:18:00
 draft = true
 +++
 

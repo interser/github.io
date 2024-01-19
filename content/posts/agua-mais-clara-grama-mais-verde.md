@@ -1,6 +1,6 @@
 +++
 title = 'Água mais clara, grama mais verde'
-date= 2022-11-24 20:18:00
+date = 2022-11-24 20:18:00
 draft = false
 featured_image = '/images/grass_water.jpeg'
 +++

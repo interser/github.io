@@ -1,16 +1,16 @@
 +++
-title = 'Discutir É Uma Grande Perda De Tempo'
-date=   2022-02-09 20:18:00
+title = 'Discussão'
+date = 2022-02-09 20:18:00
 featured_image = '/images/discutir-perca-tempo.jpeg'
 +++
 
-“Se o adversário é inferior a ti, porque brigar;
+**"Se o adversário é inferior a ti, porque brigar;
 
 Se o adversário é superior a ti, porque brigar;
 
 Se o adversário é igual a ti, compreenderá o que tu compreende;
 
-Então… não precisará haver luta.”
+Então… não precisará haver luta."**
 
 Todos os debates são inúteis, o próprio debater é uma idiotice, ninguém pode atingir a verdade pela discussão. Todas as discussões são uma grande perda de tempo, porque provocam um clima no qual qualquer entendimento entre duas ou mais pessoas se torna insuportável, onde qualquer coisa dita é sempre mal interpretada. Uma mente que está disposta a vencer, a conquistar, não consegue compreender nada. Isso é impossível porque a compreensão necessita de uma mente tranqüila e não violenta. E quando você está lutando pela vitória, você tem, obrigatoriamente, que ser violento.
 
@@ -45,17 +45,3 @@ Toda essa paranóia está dentro de você. Você é que é brigão, violento, pr
 Uma semente cai no solo, germina, e uma árvore começa a crescer. O solo, o ar, a água o sol estão dando a oportunidade. Mas a árvore já estava escondida na semente. Você carrega a árvore inteira dentro de você e, os outros apenas lhe dão a oportunidade de germinar. Agora se sua árvore é um cactus todo retorcido, feio, cabeludo, cheio de espinhos venenosos, ou uma linda flor que a todos encanta e conquista, depende do que tem dentro de você.
 
 Quando algo acontecer, não olhe para fora, não ache que a culpa é dos outros, olhe para dentro, porque seja lá o que esteja acontecendo, tem a ver com você, somente com você, ninguém tem nada com isso. Não se esqueça que a rudeza, a dureza, a grossura e a ignorância sempre perdem, tanto que os dentes caem e a língua fica.
-
-“Na história da teimosia, entre a rudeza e a arrogância,
-
-É tão forte a ignorância, tão cruenta, tão mordaz,
-
-Que a própria sabedoria de tudo sabendo tanto,
-
-Não pode saber de quanto o ignorante é capaz”
-
-Lembre-se do ditado:
-
-“Quando o arqueiro erra o alvo, não procura o defeito na flecha, no arco, no vento ou no alvo, procura o defeito em si próprio”.
-
-“Realmente vitorioso não é quem vence em batalhas milhares de homens, mas sim, quem a si mesmo vence.” Dhammapada – ves. 103 – Séc. lll a.C.

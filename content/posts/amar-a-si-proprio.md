@@ -1,6 +1,6 @@
 +++
-title= 'Quando Me Amei De Verdade'
-date= 2021-09-07T15:35:21-03:00
+title = 'Quando Me Amei De Verdade'
+date = 2021-09-07T15:35:21-03:00
 draft = false
 +++
 

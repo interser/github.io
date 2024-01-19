@@ -1,6 +1,6 @@
 +++
 title = 'Amor Bondade'
-date= 2023-02-07 20:18:00
+date = 2023-02-07 20:18:00
 draft = true
 +++
 

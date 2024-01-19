@@ -1,6 +1,6 @@
 +++
 title = 'Ichigu Wo Terasu'
-date=   2021-12-07 20:18:00
+dat e= 2021-12-07 20:18:00
 draft = true
 +++
 

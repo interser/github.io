@@ -1,6 +1,6 @@
 +++
 title = 'Abandonar'
-date= 2022-10-27 20:18:00
+date = 2022-10-27 20:18:00
 draft = false
 +++
 

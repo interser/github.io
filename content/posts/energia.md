@@ -1,6 +1,6 @@
 +++
 title = 'Energia'
-date= 2023-01-24 20:18:00
+date = 2023-01-24 20:18:00
 draft = true
 +++
 
