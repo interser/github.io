@@ -2,224 +2,445 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interser</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Interser</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 09 Sep 2022 20:18:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2024 16:46:32 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O biscoito da infância</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 02 Sep 2024 16:46:32 -0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Quando eu tinha quatro anos de idade, minha mãe costumava trazer um biscoito pra mim toda vez que chegava em casa do mercado. Eu sempre ia até o jardim da frente para comê-lo sem pressa, às vezes passava meia hora ou quarenta e cinco minutos saboreando um biscoito.&#xA;Eu dava uma mordidinha e olhava para o céu. Depois eu tocava o cachorro com os meus pés e dava outra mordidinha. Eu simplesmente gostava de estar ali presente, com o céu, a terra, as moitas de bambu, o gato, o cachorro, as flores.</description>
+    </item>
+    <item>
+      <title>Nutrindo A Consciência</title>
+      <link>http://localhost:1313/posts/nutrindo-a-consciencia/</link>
+      <pubDate>Mon, 03 Jun 2024 18:08:46 -0300</pubDate>
+      <guid>http://localhost:1313/posts/nutrindo-a-consciencia/</guid>
+      <description>Numa noite fria de inverno, eu voltei para casa de uma caminhada pelos morros, e encontrei escancaradas todas as portas e janelas do meu eremitério. Quando saí mais cedo, eu me esqueci de prendê-las, e um vento frio tinha soprado pela casa, aberto janelas e espalhado, por toda a sala, os papéis da minha escrivaninha. Eu, imediatamente, fechei as portas e janelas, acendi uma lamparina, peguei os papéis e os arrumei com esmero sobre a minha mesa.</description>
+    </item>
+    <item>
+      <title>Formaçōes Internas</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sat, 04 May 2024 18:08:46 -0300</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>Há um termo na psicologia budista que poderia ser traduzido como “formações internas”, “algemas” ou “nós”. Quando ocorre uma entrada sensorial, dependendo da forma como a recebemos, um nó pode ser amarrado dentro de nós. Quando alguém fala de um modo grosseiro conosco, se compreendermos o porquê disso, e não levarmos a sério aquelas palavras, não vamos ficar irritados de forma alguma, e nó nenhum será atado. Mas se não compreendermos por que falaram conosco daquela forma e ficarmos irritados um nó será amarrado em nós.</description>
+    </item>
+    <item>
+      <title>Todos Nós Queremos Ser Felizes</title>
+      <link>http://localhost:1313/posts/ser-feliz/</link>
+      <pubDate>Fri, 19 Jan 2024 18:32:00 -0300</pubDate>
+      <guid>http://localhost:1313/posts/ser-feliz/</guid>
+      <description>Todos nós queremos ser felizes, e há muitos livros e professores no mundo que tentam ajudar as pessoas a serem mais felizes. No entanto, todos nós continuamos a sofrer.&#xA;Por isso, podemos pensar que estamos “fazendo algo errado”. Por qualquer motivo, estamos sendo “deficientes em felicidade”. Mas isso não é verdade. Ser capaz de desfrutar a felicidade não requer que tenhamos zero sofrimento. De fato, a arte da felicidade também é a arte do sofrimento.</description>
+    </item>
+    <item>
+      <title>Prazeres dos Sentidos</title>
+      <link>http://localhost:1313/posts/prazeres-sentido/</link>
+      <pubDate>Mon, 08 Jan 2024 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/prazeres-sentido/</guid>
+      <description>É importante desenvolver o entendimento correto sobre os prazeres dos sentidos.&#xA;O Buda explica o que é a gratificação, os perigos e a escapatória dos prazeres dos sentidos.&#xA;1. A gratificação é o prazer em si proporcionado pelos objetos dos sentidos.&#xA;2.O perigo são todos os riscos e atribulações que se corre para obter e manter esses prazeres.&#xA;3. Já a escapatória dos prazeres sensuais são justamente os jhanas, que também são um tipo de prazer, mas superior aos prazeres dos sentidos, pois são isentos de aflições.</description>
+    </item>
+    <item>
+      <title>Armadilha</title>
+      <link>http://localhost:1313/posts/armadilha/</link>
+      <pubDate>Tue, 02 Jan 2024 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/armadilha/</guid>
+      <description>Uma pessoa pode encontrar paz dentro de si mesma em qualquer situação, qualquer lugar, qualquer circunstância, mas só através do esforço, não através da distração. O mundo oferece distrações e contatos sensuais que são na maioria das vezes muito tentadores. Quanto mais ação houver, mais distraída a mente ficará e menos observaremos o próprio sofrimento. Quando há tempo e oportunidade para a introspecção, descobrimos que a realidade interior é distinta daquilo que tínhamos imaginado.</description>
+    </item>
+    <item>
+      <title>As Três Portas da Libertação</title>
+      <link>http://localhost:1313/posts/portas-libertacao/</link>
+      <pubDate>Mon, 01 Jan 2024 17:55:02 -0300</pubDate>
+      <guid>http://localhost:1313/posts/portas-libertacao/</guid>
+      <description>As três marcas da existência – impermanência, sofrimento e não-eu – são a descrição básica da realidade feita pelo Buda. As três portas da libertação são os ensinamentos de Thich Nhat Hanh sobre como transcender a dualidade, a raiz de todo o sofrimento, vivendo de acordo com estas verdades. É o lado positivo do que de outra forma poderia ser visto como uma notícia muito ruim.&#xA;Não eu. Como nada tem um eu separado, tudo está conectado.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/_draft/</link>
+      <pubDate>Tue, 12 Dec 2023 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/_draft/</guid>
+      <description>Muitas pessoas quando escutam sobre preceitos associam a palavra a uma série de regras. Regras não são bem vindas pela grande maioria das pessoas porquê normalmente as pessoas querem liberdade, mas essa liberdade é constantemente associada com muitos atos feitos sem nenhum aspecto ético e moral.&#xA;Os 5 preceitos é um ensinamento dado pelo Buda que e essencial para o desenvolvimento etico.&#xA;Muitas pessoas ao lerem sovre preceitos pensam em regras, e regras não são bem vindas pela grande maioria de pessoas.</description>
+    </item>
+    <item>
+      <title>O Dia Do Seu Nascimento</title>
+      <link>http://localhost:1313/posts/o-dia-do-seu-nascimento/</link>
+      <pubDate>Wed, 06 Dec 2023 17:55:02 -0300</pubDate>
+      <guid>http://localhost:1313/posts/o-dia-do-seu-nascimento/</guid>
+      <description>Neste exato momento, todos estamos morrendo. Alguns mais lentamente, outros de maneira mais rápida. Se podemos estar vivos agora, é porque estamos morrendo em todos os instantes. Podemos pensar que outra pessoa está morrendo, mas nós não. Porém, não devemos nos deixar enganar pelas aparências.&#xA;Existem dois níveis de verdade sobre nascimento e morte. No nível da verdade convencional, podemos dizer que existe nascimento e morte, início e fim, criação e destruição.</description>
+    </item>
+    <item>
+      <title>Olhando Para O Céu</title>
+      <link>http://localhost:1313/posts/olhando-para-ceu/</link>
+      <pubDate>Wed, 29 Nov 2023 18:22:29 -0300</pubDate>
+      <guid>http://localhost:1313/posts/olhando-para-ceu/</guid>
+      <description>Vamos imaginar que, olhando para o céu, vemos uma linda nuvem. E pensamos: “Ah, que nuvem linda!”. Pouco mais tarde, voltamos a olhar para o céu, que está limpo e azul, e pensamos: “Ah, aquela nuvem desapareceu”. Em dado momento, as coisas parecem existir, mas depois elas se vão. E nós observamos tudo dessa maneira, pois tendemos a estar presos a sinais, aparências e formas familiares, e isso nos impede de enxergar a verdadeira natureza da realidade.</description>
+    </item>
+    <item>
+      <title>O Lugar Da Frescura</title>
+      <link>http://localhost:1313/posts/o-lugar-da-frescura/</link>
+      <pubDate>Sat, 30 Sep 2023 13:53:50 -0300</pubDate>
+      <guid>http://localhost:1313/posts/o-lugar-da-frescura/</guid>
+      <description>Algumas coisas que entendemos como erradas podem estar certas, enquanto as coisas que consideramos certas podem estar erradas.&#xA;Por que é assim ?&#xA;Porque as nossas mentes estão na escuridão, não vemos claramente a verdade.&#xA;Na verdade não sabemos de nada e por isso somos enganados pelas mentiras das pessoas. Eles apontam o que é certo como errado e nós acreditamos nisso; aquilo que está errado, eles dizem que está certo, e nós acreditamos nisso.</description>
+    </item>
+    <item>
+      <title>A Hora E Agora</title>
+      <link>http://localhost:1313/posts/a-hora-e-agora/</link>
+      <pubDate>Thu, 28 Sep 2023 15:47:32 -0300</pubDate>
+      <guid>http://localhost:1313/posts/a-hora-e-agora/</guid>
+      <description>Algumas tartarugas vivem trezentos ou quatrocentos anos, e algumas sequoias vivem mais de mil anos. A nossa expectativa de vida é de cerca de cem anos, não mais que isso. Mas como estamos vivendo esses anos ? Estamos aproveitando ao máximo? O que viemos fazer aqui ?&#xA;Mais tarde, podemos olhar para trás e nos perguntar: &amp;ldquo;O que eu fiz com a minha vida ?&amp;rdquo; O tempo passa rápido demais. A morte chega de maneira inesperada.</description>
+    </item>
+    <item>
+      <title>As Maravilhas Do Entre Ser</title>
+      <link>http://localhost:1313/posts/as-maravilhas-do-entre-ser/</link>
+      <pubDate>Sat, 23 Sep 2023 17:54:10 -0300</pubDate>
+      <guid>http://localhost:1313/posts/as-maravilhas-do-entre-ser/</guid>
+      <description>Imagine, por um momento, uma linda flor. Essa flor pode ser uma orquídea ou uma rosa, ou mesmo uma simples margarida que cresceu às margens de uma estrada. Ao olharmos para a flor, podemos perceber que ela está cheia de vida. Nela, existe solo, chuva e luz do sol; e também nuvens, oceanos e minerais. Está, inclusive, cheia de espaço e de tempo. Na verdade, o cosmo inteiro está presente nessa pequena flor.</description>
+    </item>
+    <item>
+      <title>Entrando No Seculo XXI</title>
+      <link>http://localhost:1313/posts/entrando-no-seculo-xxi/</link>
+      <pubDate>Thu, 21 Sep 2023 18:27:15 -0300</pubDate>
+      <guid>http://localhost:1313/posts/entrando-no-seculo-xxi/</guid>
+      <description>A palavra “política” está sendo muito usada, hoje em dia. Parece haver uma política para quase tudo. Eu ouvi dizer que as ditas nações desenvolvidas estão estudando um programa político para o lixo a fim de enviar, em enormes barcaças, os seus lixos ao Terceiro Mundo.&#xA;Eu acho que precisamos de uma “política” para gerir nosso sofrimento. Não queremos fechar os olhos pra isso, mas sim encontrar uma maneira de usar o sofrimento para o nosso bem e o bem dos outros.</description>
+    </item>
+    <item>
+      <title>O Rio</title>
+      <link>http://localhost:1313/posts/o-rio/</link>
+      <pubDate>Thu, 21 Sep 2023 18:24:05 -0300</pubDate>
+      <guid>http://localhost:1313/posts/o-rio/</guid>
+      <description>Era uma vez um belo rio que passeava entre colinas, florestas e prados. Ele começou como um alegre córrego d ́água, uma fonte sempre dançante e cantante descendo ligeiro desde o topo da montanha. O rio era muito jovem nesse tempo, e desde que chegou à planície, diminuiu sua velocidade. Ele pensava em ir até o oceano. Na medida em que crescia, ele aprendeu a ter um lindo visual, dando voltas graciosamente entre as colinas e prados.</description>
+    </item>
+    <item>
+      <title>As Cinco Lembranças</title>
+      <link>http://localhost:1313/posts/as-cinco-lembrancas/</link>
+      <pubDate>Tue, 21 Mar 2023 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/as-cinco-lembrancas/</guid>
+      <description>As Cinco Lembranças são cinco verdades que o Buda disse que todos deveríamos contemplar e aceitar. Ele disse aos seus discípulos que refletir sobre essas cinco verdades faz nascer os fatores do Caminho Óctuplo. E a partir disso, os grilhões são abandonados e as obsessões destruídas.&#xA;As cinco lembranças Estou sujeito ao envelhecimento. Não há como evitar o envelhecimento. Estou sujeito a problemas de saúde. Não há como evitar doenças. Eu vou morrer.</description>
+    </item>
+    <item>
+      <title>Os Oito Ventos Mundanos</title>
+      <link>http://localhost:1313/posts/8-ventos-mundanos/</link>
+      <pubDate>Tue, 14 Mar 2023 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/8-ventos-mundanos/</guid>
+      <description>De acordo com um dos ensinamentos budistas fundamentais – ou seja, ensinamentos que datam da época do Buda Shakyamuni há alguns milhares de anos – estamos condenados a ser &amp;ldquo;soprados&amp;rdquo; por Oito Ventos Mundanos, a menos que nos engajemos na prática espiritual. Os oito ventos formam quatro pares: ganho e perda, sucesso e fracasso, elogio e crítica, prazer e dor. Pessoalmente, acho isso uma metáfora vívida e útil para a experiência humana.</description>
+    </item>
+    <item>
+      <title>A Culpa É Da Mente</title>
+      <link>http://localhost:1313/posts/a-culpa-e-da-mente/</link>
+      <pubDate>Tue, 07 Mar 2023 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-culpa-e-da-mente/</guid>
+      <description>Audio extraído de uma conversa sobre o Dhamma proferido pelo Ajahn Mudito da Sociedade Budista do Brasil.</description>
+    </item>
+    <item>
+      <title>Uma perspectiva budista sobre a economia e o alívio da pobreza</title>
+      <link>http://localhost:1313/posts/perspectiva-economica/</link>
+      <pubDate>Tue, 28 Feb 2023 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/perspectiva-economica/</guid>
+      <description>A economia desempenha um papel significativo na vida da maioria das pessoas comuns. Vários ensinamentos do Buda relacionados à riqueza material – sua aquisição e produção – têm relevância na economia atual. Para ajudar a melhorar a qualidade de vida socioeconômica das pessoas, o Buda pronunciou alguns suttas que estão registrados em vários ensinamentos do cânone Pali. Estes podem ser tecnicamente considerados a reflexão do Buda sobre economia.&#xA;No entanto, o conceito de economia não é apresentado como um sistema autocontido, mas sim inserido em uma estrutura mais ampla e em um contexto educacional e social.</description>
+    </item>
+    <item>
+      <title>Equanimidade</title>
+      <link>http://localhost:1313/posts/equanimidade/</link>
+      <pubDate>Tue, 21 Feb 2023 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/equanimidade/</guid>
+      <description>Nosso velho amigo sofrimento surge na mente como insatisfação causada por todos os tipos de estímulos. Pode ser disparado pelo desconforto corporal, mas mais freqüentemente é causado pelas próprias aberrações e convulsões da mente. A mente cria sofrimento e é por isso que realmente precisamos vigiar e cuidar das nossas mentes.&#xA;A nossa própria mente pode fazer com que sejamos felizes, a nossa própria mente pode fazer com que sejamos infelizes.</description>
+    </item>
+    <item>
+      <title>Amor Bondade</title>
+      <link>http://localhost:1313/posts/amor-bondade/</link>
+      <pubDate>Tue, 07 Feb 2023 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/amor-bondade/</guid>
+      <description>O ódio, deveras, nunca, até agora, dissipou o ódio. Só o amor dissipa o ódio. O ódio só leva à vingança e a vingança leva a mais ódio. Um ciclo de sofrimento é colocado em movimento e pode continuar indefinidamente. Muitos lugares no mundo hoje são uma triste evidência dessa verdade.&#xA;A mais importante fonte de amor, e essa pode ser uma surpresa, é a prática da atenção plena. A atenção plena está intimamente ligada ao amor e possui até um aspecto de amor dentro de si.</description>
+    </item>
+    <item>
+      <title>Paciência</title>
+      <link>http://localhost:1313/posts/paciencia/</link>
+      <pubDate>Tue, 31 Jan 2023 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/paciencia/</guid>
+      <description>É através da adversidade que a tolerância de uma pessoa pode ser conhecida e somente após um longo período de tempo, não um período curto; por alguém que seja atento, não por alguém que seja desatento; por alguém que tenha sabedoria, não por alguém que não tenha sabedoria. Assim foi dito e em referência a que foi dito isto ?&#xA;É o caso em que um indivíduo, sofrendo a perda de parentes, perda de riqueza ou perda por doença, não reflete sobre:</description>
+    </item>
+    <item>
+      <title>Energia</title>
+      <link>http://localhost:1313/posts/energia/</link>
+      <pubDate>Tue, 24 Jan 2023 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/energia/</guid>
+      <description>E o que é a faculdade da energia ? Neste caso uma pessoa permanece com a sua energia desperta para o abandono de qualidades mentais prejudiciais e para a obtenção de qualidades mentais benéficas; ele é decidido, firme no seu esforço, sem se esquivar das suas responsabilidades com relação ao cultivo de qualidades mentais benéficas. Ele é zeloso para que não surjam estados ruins e prejudiciais que ainda não surgiram e ele se aplica, estimula a sua energia, empenha a sua mente e se esforça.</description>
+    </item>
+    <item>
+      <title>Renúncia</title>
+      <link>http://localhost:1313/posts/renuncia/</link>
+      <pubDate>Tue, 10 Jan 2023 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/renuncia/</guid>
+      <description>As vezes damos conta que os momentos mais felizes, aquelas situações nas quais chegamos mais próximo da real felicidade, acontecem quando sentimos contentamento. Descobrimos que na vida podemos ser felizes com muito pouco. Na verdade, quanto menos temos, mais felizes podemos ser. É por isso que o caminho da renúncia e do abandono supera o do desejo. A renúncia conduz à paz.&#xA;Pratique esse princípio na sua vida. Toda vez que houver algum sofrimento, é nesse ponto que você deve renunciar.</description>
+    </item>
+    <item>
+      <title>Vazio</title>
+      <link>http://localhost:1313/posts/vazio/</link>
+      <pubDate>Tue, 27 Dec 2022 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/vazio/</guid>
+      <description>A vacuidade é um modo de percepção, uma maneira de ver a experiência. Não acrescenta nada e não tira nada dos dados brutos dos eventos físicos e mentais. Você olha para os eventos na mente e nos sentidos sem pensar se há algo por trás deles.&#xA;Esse modo é chamado de vacuidade porque está vazio das pressuposições que geralmente adicionamos à experiência para dar sentido a ela: as histórias e visões de mundo que criamos para explicar quem somos e o mundo em que vivemos.</description>
+    </item>
+    <item>
+      <title>Nome e Forma</title>
+      <link>http://localhost:1313/posts/nome-e-forma/</link>
+      <pubDate>Tue, 20 Dec 2022 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/nome-e-forma/</guid>
+      <description>Em uma ocasião, o Abençoado entrou no salão de assembléia e os irmãos silenciaram sua conversa. Depois de cumprimentá-lo com as mãos entrelaçadas, eles se sentaram e se recompuseram. Então o Abençoado disse: &amp;ldquo;Suas mentes estão inflamadas com intenso interesse; qual foi o tema de sua discussão?&amp;rdquo;&#xA;E Sariputta levantou-se e falou: &amp;ldquo;Mestre honrado pelo mundo, era sobre a natureza da própria existência do homem. Estávamos tentando compreender a mistura de nosso próprio ser que se chama Nome e Forma.</description>
+    </item>
+    <item>
+      <title>Interpretação do Lótus</title>
+      <link>http://localhost:1313/posts/interpretacao-lotus/</link>
+      <pubDate>Tue, 13 Dec 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/interpretacao-lotus/</guid>
+      <description>A flor de lótus é um símbolo da trajetória de libertação. A semente da flor de lótus é uma esfera com uma casca muito dura e com longa capacidade de sobrevivência. Foram encontradas algumas sementes de lótus no túmulo de um imperador chinês, aberto no século XX. Depois de mais de mil anos, essas sementes foram colocadas nas condições ideais, germinaram e floresceram. E quais são as condições necessárias para uma semente de lótus germinar ?</description>
+    </item>
+    <item>
+      <title>O Nobre Caminho Óctuplo</title>
+      <link>http://localhost:1313/posts/caminho-octuplo/</link>
+      <pubDate>Tue, 06 Dec 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/caminho-octuplo/</guid>
+      <description>O Nobre Caminho Óctuplo é, nos ensinamentos do Buda, um conjunto de oito práticas que correspondem à quarta nobre verdade do budismo.&#xA;Também é conhecido como o &amp;ldquo;caminho do meio&amp;rdquo; porque é baseado na moderação e na harmonia, sem cair em extremos.&#xA;&amp;ldquo;Agora, bhikkhus, esta é a nobre verdade do caminho que conduz à cessação do sofrimento: é este Nobre Caminho Óctuplo: entendimento correto, pensamento correto, linguagem correta, ação correta, modo de vida correto, esforço correto, atenção plena correta, concentração correta.</description>
+    </item>
+    <item>
+      <title>As Três Respostas</title>
+      <link>http://localhost:1313/posts/tres-respostas/</link>
+      <pubDate>Thu, 01 Dec 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tres-respostas/</guid>
+      <description>Para terminar esta carta, eu gostaria de contar uma estória narrada por Tolstoy, de que você e nossos amigos na Escola irão gostar. É a estória das três perguntas do imperador. Ele poderia continuar a reinar satisfeito, sem o risco de cometer nenhuma falha, somente se conseguisse a resposta para as seguintes perguntas:&#xA;Qual o tempo mais oportuno para se fazer cada coisa ? Quais as pessoas mais importantes com quem trabalhar ?</description>
+    </item>
+    <item>
+      <title>Água mais clara, grama mais verde</title>
+      <link>http://localhost:1313/posts/agua-mais-clara-grama-mais-verde/</link>
+      <pubDate>Thu, 24 Nov 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/agua-mais-clara-grama-mais-verde/</guid>
+      <description>Um mestre disse certa vez que a questão da vida e da morte é a própria questão do despertar. Estar ou não estar alguém vivo depende de ele estar ou não com a mente alerta. No Sutra Samyutta Nikaya ele conta uma estória: &amp;ldquo;Famosa dançarina recém-chegada a uma pequena aldeia era recebida nas ruas pelo povo que se aglomeravam para vê-la. Nesse momento, um prisioneiro era obrigado a atravessar as ruas, carregando sobre a cabeça um pote de óleo, cheio até a borda.</description>
+    </item>
+    <item>
+      <title>A amendoeira no seu jardim</title>
+      <link>http://localhost:1313/posts/a-amendoeira-no-seu-jardim/</link>
+      <pubDate>Thu, 17 Nov 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-amendoeira-no-seu-jardim/</guid>
+      <description>Falei sobre a contemplação na interdependência. Sei, Quang, que você entende que os métodos para se encontrar a verdade devem ser vistos como meios e não como fim. Convém no entanto que fique claro aos praticantes que a meditação na interdependência é aplicada para remover as falsas barreiras da discriminação e capacitá-los assim a ingressar na harmonia universal da vida. Seu propósito não é criar ou aderir a algum sistema filosófico.</description>
+    </item>
+    <item>
+      <title>Ondas do nascimento e da morte</title>
+      <link>http://localhost:1313/posts/ondas-nascimento-e-morte/</link>
+      <pubDate>Thu, 10 Nov 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ondas-nascimento-e-morte/</guid>
+      <description>Analisando a situação em que vive o mundo agora, nós nos defrontamos diariamente com a morte. Quantas pessoas já deram suas vidas ? Pessoas que são assassinadas, mortas em acidentes, numa doença maligna ou até nas frentes de combate de guerra, é impossível ignorar a morte.&#xA;Muitos jovens, muitos monges e monjas, movidos por amor àqueles que sofrem, se apresentaram para servir. Eles estão alertas para a mais importante questão do budismo, que é a questão da vida e da morte.</description>
+    </item>
+    <item>
+      <title>Um é o todo, o todo é um</title>
+      <link>http://localhost:1313/posts/um-e-o-todo-o-todo-e-um/</link>
+      <pubDate>Thu, 03 Nov 2022 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/um-e-o-todo-o-todo-e-um/</guid>
+      <description>À você, eu gostaria de dedicar algumas linhas aos métodos a serem usados para a pessoa se libertar da estreiteza da mente, e obter o destemor e uma a grande compaixão. Esses métodos são as contemplações sobre a interdependência, a impermanência e a compaixão. Quando sentar para meditar, depois de já ter obtido controle da mente, focalize-a na contemplação da interdependência de todas as coisas. Esta contemplação não é uma reflexão filosófica da interdependência.</description>
+    </item>
+    <item>
+      <title>Abandonar</title>
+      <link>http://localhost:1313/posts/abandonar/</link>
+      <pubDate>Thu, 27 Oct 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/abandonar/</guid>
+      <description>Para abraçar o caminho espiritual inteiramente, ser capaz de nele crescer e percorrê-lo com uma sensação de segurança, é necessário renunciar. Renúncia não significa necessariamente raspar o cabelo ou vestir mantos. Renúncia significa abandonar todas as ideias e esperanças às quais a mente deseja se apegar e reter, ter interesse e desejo de investigar. A mente deseja sempre ter mais do que quer que seja que esteja disponível. Se não consegue obter mais, então produz fantasias e imaginações e as projeta sobre o mundo.</description>
+    </item>
+    <item>
+      <title>Ser Ninguém</title>
+      <link>http://localhost:1313/posts/ser-ninguem/</link>
+      <pubDate>Thu, 20 Oct 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ser-ninguem/</guid>
+      <description>Se você alguma vez leu Dom Quixote, irá se lembrar que ele lutava contra moinhos de vento. Todos estamos fazendo exatamente o mesmo, lutando contra moinhos de vento. Dom Quixote, que foi a invenção da imaginação de um escritor, era um homem que acreditava ser um grande guerreiro. Ele pensava que cada moinho de vento que encontrava era um inimigo e começava a guerrear contra ele. É exatamente isso que fazemos no íntimo dos nossos próprios corações e é por essa razão que essa história tem um apelo imortal.</description>
+    </item>
+    <item>
+      <title>Conquistar A Paz</title>
+      <link>http://localhost:1313/posts/paz/</link>
+      <pubDate>Thu, 13 Oct 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/paz/</guid>
+      <description>Para conquistar a paz e a felicidade é necessário esforço incansável com o próprio coração. Não é possível alcançá-las através da proliferação, tentando obter mais, só querendo menos. Tornando-nos cada vez mais vazios, até que reste apenas um espaço vazio, amplo, para ser preenchido pela paz e a felicidade. Enquanto os nossos corações estiverem repletos com gostos e desgostos, como poderão a paz e a felicidade encontrar algum espaço?&#xA;Uma pessoa pode encontrar paz dentro de si mesma em qualquer situação, qualquer lugar, qualquer circunstância, mas só através do esforço, não através da distração.</description>
+    </item>
+    <item>
+      <title>Sobre O Amor - Part IX</title>
+      <link>http://localhost:1313/posts/sobre-o-amor-part-ix/</link>
+      <pubDate>Thu, 06 Oct 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sobre-o-amor-part-ix/</guid>
+      <description>O Buddha ensinou que a principal condição para um casal viver junto e feliz, é partilharem os mesmos padrões de conduta, de crenças e de valores. Naturalmente, somos aconselhados a ponderar bem este ponto, de preferência antes e não depois de concordarmos juntar a nossa vida à do outro. Talvez possamos, através do amor, ser capazes de aceitar diferenças fundamentais de opinião e de conduta no nosso companheiro, mas não será fácil; e as coisas tornam-se mais complicadas quando as crianças entram na equação.</description>
+    </item>
+    <item>
+      <title>Sobre O Amor - Part VIII</title>
+      <link>http://localhost:1313/posts/sobre-o-amor-part-viii/</link>
+      <pubDate>Fri, 30 Sep 2022 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/sobre-o-amor-part-viii/</guid>
+      <description>Não é objectivo do Budismo encontrar somente defeitos no amor, mas antes ensinar-nos a abrir os nossos corações à verdadeira natureza das coisas. Devemos fazer isto, porque contemplar e compreender as coisas como elas são, é o caminho para o fim do sofrimento. Um dos métodos para tal é refletir regularmente acerca das simples verdades da vida e deixar que as mesmas sejam absorvidas. Relembrarmo-nos que é natural envelhecer, que não podemos evitar o envelhecimento, que é natural ficar doente, que não podemos evitar a doença, que é natural morrer, que não podemos evitar a morte.</description>
+    </item>
+    <item>
+      <title>Sobre O Amor - Part VII</title>
+      <link>http://localhost:1313/posts/sobre-o-amor-part-vii/</link>
+      <pubDate>Fri, 23 Sep 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sobre-o-amor-part-vii/</guid>
+      <description>Outra dificuldade que pode acompanhar o amor é o desconforto com as famílias dos nossos companheiros. Por vezes os pais ou os irmãos dos nossos companheiros não gostam de nós; outras vezes somos nós que não gostamos deles. Às vezes envolve um assunto em particular, mas a maior parte das vezes trata-se somente de um conflito de personalidades. Muitos admitem que se pudessem escolher não queriam ter absolutamente nada a ver com alguns dos seus familiares; mas suportam-nos por um sentimento de dever, para assim manter a paz na família.</description>
+    </item>
+    <item>
+      <title>Sobre O Amor - Part VI</title>
+      <link>http://localhost:1313/posts/sobre-o-amor-part-vi/</link>
+      <pubDate>Fri, 16 Sep 2022 20:18:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sobre-o-amor-part-vi/</guid>
+      <description>Os jovens frequentemente vêem no amor a solução para todos os problemas da vida. Pensam que o principal é simplesmente amar e ser amado; desde que isso esteja presente, tudo o resto se resolverá por si próprio. Mas se estivermos dispostos a observar mais de perto, a experiência diz-nos que aquilo que determina uma felicidade duradoura, não é tanto a presença do amor mas sim a qualidade das nossas ações, palavras e pensamentos.</description>
+    </item>
     <item>
       <title>Sobre O Amor - Part V</title>
-      <link>https://example.org/posts/sobre-o-amor-part-v/</link>
+      <link>http://localhost:1313/posts/sobre-o-amor-part-v/</link>
       <pubDate>Fri, 09 Sep 2022 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/sobre-o-amor-part-v/</guid>
+      <guid>http://localhost:1313/posts/sobre-o-amor-part-v/</guid>
       <description>O tipo de amor em que as pessoas demonstram mais interesse é sem dúvida o amor romântico. Quase toda a gente espera ter a sorte de encontrar a sua alma gémea ou um bom companheiro para a vida e depois viverem felizes para sempre. Amar alguém verdadeiramente e ser verdadeiramente amado por essa pessoa é um dos sonhos mais populares. No entanto, o querer amar e ser amado desta forma vem geralmente acompanhado de impurezas como a ilusão e o desejo sensual.</description>
     </item>
-    
     <item>
       <title>Sobre O Amor - Part IV</title>
-      <link>https://example.org/posts/sobre-o-amor-part-iv/</link>
+      <link>http://localhost:1313/posts/sobre-o-amor-part-iv/</link>
       <pubDate>Fri, 02 Sep 2022 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/sobre-o-amor-part-iv/</guid>
+      <guid>http://localhost:1313/posts/sobre-o-amor-part-iv/</guid>
       <description>O tipo de amor pessoal que sentimos desde o início das nossas vidas é o amor entre pais e filhos. Ao crescermos vemos a presença dos nossos pais como algo permanente, pois eles aparentam ser um elemento fixo no mundo tal como a terra, a água, o fogo e o ar. Sentimos que temos direito ao amor dos nossos pais. Dada a propensão à condescendência, na sociedade tailandesa enfatiza-se grandemente a gratidão, encorajando as pessoas a lembrarem-se o quanto devem aos seus pais e a sentirem a alegria de retribuir a bondade dos mesmos.</description>
     </item>
-    
     <item>
       <title>Sobre O Amor - Part III</title>
-      <link>https://example.org/posts/sobre-o-amor-part-iii/</link>
+      <link>http://localhost:1313/posts/sobre-o-amor-part-iii/</link>
       <pubDate>Thu, 25 Aug 2022 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/sobre-o-amor-part-iii/</guid>
-      <description>Os ensinamentos do Buddha sugerem duas significantes desvantagens em relação ao amor mundano:
-1. Aquele que ama, o amado e próprio amor, são todos por natureza impermanentes. As alterações e as mudanças que ocorrem, devido a causas e efeitos, significam que nada no mundo, incluindo o amor pessoal, é permanente ou capaz de oferecer um verdadeiro refúgio.
-2. O amante, como ser não iluminado, alojará sempre no seu coração emoções negativas (conhecidas na linguagem budista como obstruções ou kilesas) que eventualmente tornarão o amor em algo insatisfatório e poderão, a qualquer momento, trazer problemas à relação amorosa.</description>
+      <guid>http://localhost:1313/posts/sobre-o-amor-part-iii/</guid>
+      <description>Os ensinamentos do Buddha sugerem duas significantes desvantagens em relação ao amor mundano:&#xA;1. Aquele que ama, o amado e próprio amor, são todos por natureza impermanentes. As alterações e as mudanças que ocorrem, devido a causas e efeitos, significam que nada no mundo, incluindo o amor pessoal, é permanente ou capaz de oferecer um verdadeiro refúgio.&#xA;2. O amante, como ser não iluminado, alojará sempre no seu coração emoções negativas (conhecidas na linguagem budista como obstruções ou kilesas) que eventualmente tornarão o amor em algo insatisfatório e poderão, a qualquer momento, trazer problemas à relação amorosa.</description>
     </item>
-    
     <item>
       <title>Sobre O Amor - Part II</title>
-      <link>https://example.org/posts/sobre-o-amor-part-ii/</link>
+      <link>http://localhost:1313/posts/sobre-o-amor-part-ii/</link>
       <pubDate>Sun, 14 Aug 2022 15:35:21 -0300</pubDate>
-      
-      <guid>https://example.org/posts/sobre-o-amor-part-ii/</guid>
+      <guid>http://localhost:1313/posts/sobre-o-amor-part-ii/</guid>
       <description>Ao tentarmos compreender o que é o amor, estas são as questões que podemos colocar a nós próprios: O que é o amor? Quais são as vantagens e desvantagens do amor? Como é que o amor surge? Como é que se mantém o amor? Como é que o amor se desfaz e termina? O que são as impurezas do amor? O que é que conserva e purifica o amor? Como nos devemos comportar em relação ao amor de forma a maximizar a felicidade e minimizar a dor?</description>
     </item>
-    
     <item>
       <title>Sobre O Amor - Part I</title>
-      <link>https://example.org/posts/sobre-o-amor-part-i/</link>
+      <link>http://localhost:1313/posts/sobre-o-amor-part-i/</link>
       <pubDate>Sun, 07 Aug 2022 15:35:21 -0300</pubDate>
-      
-      <guid>https://example.org/posts/sobre-o-amor-part-i/</guid>
+      <guid>http://localhost:1313/posts/sobre-o-amor-part-i/</guid>
       <description>Sempre gostei de histórias e em particular de histórias que requerem que o leitor sofra um pouco e que verta algumas lágrimas no desenrolar da ação, antes do final feliz. Atualmente, o Caminho Óctuplo é a minha história preferida; a iluminação é o supremo final feliz. Mas nas histórias que eu acalentei na minha juventude, os finais felizes quase sempre envolviam um certo tipo de amor, e comecei a observar que na realidade, o amor nem sempre é uma garantia para a felicidade e raramente soluciona seja o que for por muito tempo.</description>
     </item>
-    
     <item>
       <title>A Vaca Que Chorou</title>
-      <link>https://example.org/posts/a-vaca-que-chorou/</link>
+      <link>http://localhost:1313/posts/a-vaca-que-chorou/</link>
       <pubDate>Mon, 04 Apr 2022 15:35:21 -0300</pubDate>
-      
-      <guid>https://example.org/posts/a-vaca-que-chorou/</guid>
+      <guid>http://localhost:1313/posts/a-vaca-que-chorou/</guid>
       <description>Eu cheguei cedo para conduzir a sessão de meditação na prisão de segurança mínima. Um dos presos que eu nunca havia visto antes estava esperando para falar comigo. Ele era um sujeito gigantesco com cabelo e barba espessos e os braços tatuados; as cicatrizes no rosto revelavam que ele esteve envolvido em muitas brigas violentas. A aparência dele era tão amedrontadora que eu fiquei me perguntando porque ele estava querendo aprender a meditar.</description>
     </item>
-    
     <item>
       <title>A Verdadeira Felicidade</title>
-      <link>https://example.org/posts/a-verdadeira-felicidade/</link>
+      <link>http://localhost:1313/posts/a-verdadeira-felicidade/</link>
       <pubDate>Mon, 28 Mar 2022 15:35:21 -0300</pubDate>
-      
-      <guid>https://example.org/posts/a-verdadeira-felicidade/</guid>
+      <guid>http://localhost:1313/posts/a-verdadeira-felicidade/</guid>
       <description>Nossa qualidade de vida e nossa verdadeira felicidade não dependem de condições ou provas externas. Não dependem de quanto dinheiro temos, de qual é o nosso trabalho e de como é a nossa casa. Em Plum Village, nenhum dos monges tem conta bancária, cartão de crédito ou salário, e ainda assim vivemos muito felizes. Pelos padrões de vida norte-americanos, não somos pessoas normais. Porém, somos muito felizes com nossa vida simples e com a chance que temos de ajudar aos demais e servir ao mundo.</description>
     </item>
-    
     <item>
       <title>O Insight Nos Liberta</title>
-      <link>https://example.org/posts/o-insight-nos-liberta/</link>
+      <link>http://localhost:1313/posts/o-insight-nos-liberta/</link>
       <pubDate>Mon, 21 Mar 2022 15:35:21 -0300</pubDate>
-      
-      <guid>https://example.org/posts/o-insight-nos-liberta/</guid>
-      <description>Todos temos insights. Sabemos que o objeto do nosso desejo não é tão valioso. Sabemos que não queremos ser capturados. Sabemos que não queremos gastar todo nosso dinheiro, tempo e energia nisso. Ainda assim, não somos capazes de nos livrar do desejo. E isso acontece por não sabermos como aplicar nosso insight.
-É preciso parar um tempo para refletir profundamente sobre a nossa situação a fim de identificarmos o que desejamos.</description>
+      <guid>http://localhost:1313/posts/o-insight-nos-liberta/</guid>
+      <description>Todos temos insights. Sabemos que o objeto do nosso desejo não é tão valioso. Sabemos que não queremos ser capturados. Sabemos que não queremos gastar todo nosso dinheiro, tempo e energia nisso. Ainda assim, não somos capazes de nos livrar do desejo. E isso acontece por não sabermos como aplicar nosso insight.&#xA;É preciso parar um tempo para refletir profundamente sobre a nossa situação a fim de identificarmos o que desejamos.</description>
     </item>
-    
     <item>
       <title>Fisgado</title>
-      <link>https://example.org/posts/fisgado/</link>
+      <link>http://localhost:1313/posts/fisgado/</link>
       <pubDate>Mon, 07 Mar 2022 15:35:21 -0300</pubDate>
-      
-      <guid>https://example.org/posts/fisgado/</guid>
+      <guid>http://localhost:1313/posts/fisgado/</guid>
       <description>Contemplar o não-desejo é outra maneira de praticar a concentração na ausência de objetivo. Cada um de nós carrega uma boa dose de desejo internamente. Estamos sempre olhando para fora de nós mesmos, tentando encontrar algo que nos deixe saciados e completos&amp;hellip; seja comida, prazer sexual, dinheiro, relacionamento, status social ou êxito. Porém, enquanto a energia do desejo estiver viva dentro de nós, nunca nos satisfaremos com o que temos e com quem somos neste momento, e a verdadeira felicidade não será possível.</description>
     </item>
-    
     <item>
-      <title>Aspirando Felicidade</title>
-      <link>https://example.org/posts/aspirando-felicidade/</link>
+      <title>Aspirando Por Amizades</title>
+      <link>http://localhost:1313/posts/aspirando-felicidade/</link>
       <pubDate>Mon, 28 Feb 2022 15:35:21 -0300</pubDate>
-      
-      <guid>https://example.org/posts/aspirando-felicidade/</guid>
-      <description>Aspirando três tipos de felicidade, uma pessoa sábia deveria observar a conduta virtuosa. Quais são os três? Aspirando &amp;lsquo;Que eu seja elogiado,&amp;rsquo; uma pessoa sábia deveria observar a conduta virtuosa. Aspirando &amp;lsquo;Que eu obtenha riqueza,&amp;rsquo; uma pessoa sábia deveria observar a conduta virtuosa. Aspirando &amp;lsquo;Com a dissolução do corpo, após a morte, que eu renasça num destino feliz, no paraíso,&amp;rsquo; uma pessoa sábia deveria observar a conduta virtuosa. Esses são os três tipos de felicidade pelos quais aspirando uma pessoa sábia deveria observar a conduta virtuosa.</description>
+      <guid>http://localhost:1313/posts/aspirando-felicidade/</guid>
+      <description>Amizade é o elo entre a verdade e o respeito e está interligado com o nosso desenvolvimento pessoal. Os laços de amizade que criamos com outras pessoas podem ser muito tóxicos e nos trazer muitos problemas.&#xA;Tendo a família como base moral, as crianças que se desenvolvem em um ambiente familiar tóxico, também farão amizades com pessoas de mau caráter. Pelo fato de não ter recebido educação, essas crianças não aprimoraram o seu discernimento, portanto, é impossível para elas filtrar os amigos bons dos amigos ruins.</description>
     </item>
-    
     <item>
       <title>3 Venenos E 3 Antídotos</title>
-      <link>https://example.org/posts/3-venenos-e-3-antidotos/</link>
+      <link>http://localhost:1313/posts/3-venenos-e-3-antidotos/</link>
       <pubDate>Wed, 23 Feb 2022 15:35:21 -0300</pubDate>
-      
-      <guid>https://example.org/posts/3-venenos-e-3-antidotos/</guid>
+      <guid>http://localhost:1313/posts/3-venenos-e-3-antidotos/</guid>
       <description>Quando você está inflamado, nervoso, discutindo, você não está comprometido com os fatos, com a verdade, você está comprometido com a vitória, com ganhar a discussão a qualquer preço. Sua mente está cega, blindada, furiosa, tendenciosa e, dessa perspectiva distorcida, o mundo ao redor será sempre uma ameaça constante. Você quer afastar essa ameaça, pois ela lhe incomoda, ela representa tudo aquilo que você não gosta ou não concorda. O Budismo chama esse quadro mental de a “mente raivosa”.</description>
     </item>
-    
     <item>
       <title>Confusão</title>
-      <link>https://example.org/posts/confusao/</link>
+      <link>http://localhost:1313/posts/confusao/</link>
       <pubDate>Wed, 16 Feb 2022 15:35:21 -0300</pubDate>
-      
-      <guid>https://example.org/posts/confusao/</guid>
+      <guid>http://localhost:1313/posts/confusao/</guid>
       <description>Isto foi dito pelo Abençoado, dito pelo Arahant, assim ouvi: “Há esses três tipos de pensamento inábil que produzem confusão, produzem falta de visão, produzem falta de conhecimento, conduzem à cessação da sabedoria, contribuem para a aflição e não conduzem a nibbana. Quais três? Pensamento imbuído de sensualidade &amp;hellip; Pensamento imbuído de má vontade &amp;hellip; Pensamento imbuído de crueldade produz confusão, produz falta de visão, produz falta de conhecimento, conduz à cessação da sabedoria, contribui para a aflição e não conduz a nibbana.</description>
     </item>
-    
     <item>
-      <title>Discutir É Uma Grande Perda De Tempo</title>
-      <link>https://example.org/posts/discutir-%C3%A9-uma-grande-perda-de-tempo/</link>
+      <title>Discussão</title>
+      <link>http://localhost:1313/posts/discutir-%C3%A9-uma-grande-perda-de-tempo/</link>
       <pubDate>Wed, 09 Feb 2022 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/discutir-%C3%A9-uma-grande-perda-de-tempo/</guid>
-      <description>“Se o adversário é inferior a ti, porque brigar;
-Se o adversário é superior a ti, porque brigar;
-Se o adversário é igual a ti, compreenderá o que tu compreende;
-Então… não precisará haver luta.”
-Todos os debates são inúteis, o próprio debater é uma idiotice, ninguém pode atingir a verdade pela discussão. Todas as discussões são uma grande perda de tempo, porque provocam um clima no qual qualquer entendimento entre duas ou mais pessoas se torna insuportável, onde qualquer coisa dita é sempre mal interpretada.</description>
+      <guid>http://localhost:1313/posts/discutir-%C3%A9-uma-grande-perda-de-tempo/</guid>
+      <description>**&amp;ldquo;Se o adversário é inferior a ti, porque brigar;&#xA;Se o adversário é superior a ti, porque brigar;&#xA;Se o adversário é igual a ti, compreenderá o que tu compreende;&#xA;Então… não precisará haver luta.&amp;rdquo;**&#xA;Todos os debates são inúteis, o próprio debater é uma idiotice, ninguém pode atingir a verdade pela discussão. Todas as discussões são uma grande perda de tempo, porque provocam um clima no qual qualquer entendimento entre duas ou mais pessoas se torna insuportável, onde qualquer coisa dita é sempre mal interpretada.</description>
     </item>
-    
     <item>
       <title>Permanecer Com A Felicidade</title>
-      <link>https://example.org/posts/permanecer-com-a-felicidade/</link>
+      <link>http://localhost:1313/posts/permanecer-com-a-felicidade/</link>
       <pubDate>Wed, 02 Feb 2022 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/permanecer-com-a-felicidade/</guid>
+      <guid>http://localhost:1313/posts/permanecer-com-a-felicidade/</guid>
       <description>&amp;ldquo;Possuindo duas coisas, um discípulo permanece com a felicidade nesta vida - sem aflição, sem perturbação, sem angústia - e com a dissolução do corpo, após a morte um destino feliz pode ser esperado. Quais duas? Guardar as portas dos meios dos sentidos, e moderação ao comer. Possuindo essas duas coisas, um bhikkhu permanece com a felicidade nesta vida - sem aflição, sem perturbação, sem angústia - e com a dissolução do corpo, após a morte um destino feliz pode ser esperado.</description>
     </item>
-    
     <item>
       <title>Generosidade</title>
-      <link>https://example.org/posts/dez-perfeicoes/</link>
+      <link>http://localhost:1313/posts/dez-perfeicoes/</link>
       <pubDate>Tue, 25 Jan 2022 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/dez-perfeicoes/</guid>
+      <guid>http://localhost:1313/posts/dez-perfeicoes/</guid>
       <description>Generosidade Sabemos que a segunda Nobre Verdade define a origem do sofrimento como cobiça e apego, o desejo desenfreado. Por causa disso, uma das principais práticas do Dhamma é chamada de Dana. Dana significa a prática da generosidade ou o ato de compartir com os outros. É um antídoto contra o apego, a esse agarrar-se com desespero às coisas, ao apego desmedido às nossas coisas. Encontramos essa cobiça e apego em todos os lugares.</description>
     </item>
-    
     <item>
       <title>A Hora Do Lobo</title>
-      <link>https://example.org/posts/a-hora-do-lobo/</link>
+      <link>http://localhost:1313/posts/a-hora-do-lobo/</link>
       <pubDate>Tue, 18 Jan 2022 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/a-hora-do-lobo/</guid>
+      <guid>http://localhost:1313/posts/a-hora-do-lobo/</guid>
       <description>Existe um predador no interior de todos nós. Ele não existe para predar outras pessoas, mas para caçar a nós mesmos, devorando nosso discernimento, afastando a sabedoria. Foi criado a partir de nossos hábitos e padrões de comportamento insalubres, de nossas vaidades e egoísmos, e se alimenta de nossa energia mental, emocional e espiritual. Como todo predador, ele não age aleatoriamente e sem estratégia; fica à espreita e somente nos domina quando estimulado pelas circunstâncias, emoções e pensamentos que excitem sua ira.</description>
     </item>
-    
     <item>
       <title>Tópicos Para Conversação</title>
-      <link>https://example.org/posts/topicos-conversacao/</link>
+      <link>http://localhost:1313/posts/topicos-conversacao/</link>
       <pubDate>Tue, 11 Jan 2022 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/topicos-conversacao/</guid>
+      <guid>http://localhost:1313/posts/topicos-conversacao/</guid>
       <description>Em certa ocasião, um sábio mestre escutou seu discípulos conversando sobre vários tópicos inferiores, eles estavam falando sobre reis, ladrões, ministros de estado, exércitos, alarmes e batalhas; comida e bebida, roupas, mobília, ornamentos e perfumes, parentes; veículos; vilarejos, vilas, cidades, mulheres e heróis; as fofocas das ruas; contos dos mortos; contos da diversidade (discussões filosóficas do passado e futuro), a criação do mundo e do mar e sobre a existência ou não das coisas.</description>
     </item>
-    
     <item>
       <title>Má Vontade</title>
-      <link>https://example.org/posts/ma-vontade/</link>
+      <link>http://localhost:1313/posts/ma-vontade/</link>
       <pubDate>Tue, 04 Jan 2022 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/ma-vontade/</guid>
-      <description>Seis coisas levam ao abandono da má-vontade:
-Aprender a meditar sobre o amor-bondade; Dedicar-se à meditação de amor-bondade; Refletir que se é herdeiro e dono de suas próprias ações (kamma); Reflexão frequente da forma a seguir: &amp;ldquo;Estando com raiva de outra pessoa, o que nós podemos fazer a ela? Nós podemos destruir as virtudes e boas qualidades dela? Nós não chegamos ao estado presente de acordo com nossas ações, e isso também não continuará a ocorrer no futuro?</description>
+      <guid>http://localhost:1313/posts/ma-vontade/</guid>
+      <description>Seis coisas levam ao abandono da má-vontade:&#xA;Aprender a meditar sobre o amor-bondade; Dedicar-se à meditação de amor-bondade; Refletir que se é herdeiro e dono de suas próprias ações (kamma); Reflexão frequente da forma a seguir: &amp;ldquo;Estando com raiva de outra pessoa, o que nós podemos fazer a ela? Nós podemos destruir as virtudes e boas qualidades dela? Nós não chegamos ao estado presente de acordo com nossas ações, e isso também não continuará a ocorrer no futuro?</description>
     </item>
-    
     <item>
-      <title>Shiken Haramitsu Daikoumyo</title>
-      <link>https://example.org/posts/shiken-haramitsu/</link>
-      <pubDate>Tue, 28 Dec 2021 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/shiken-haramitsu/</guid>
-      <description>Shiken Haramitsu Daikoumyo é um mantra budista sagrado de &amp;rsquo;nove sílabas&amp;rsquo; em japonês.
-O kanji que representa isso é: 四拳 波羅蜜 大光明
-shi-ken: 四拳 = (shi|quatro)-(ken|coração/punho) ha-ra-mitsu: 波羅蜜 = (nami/ha|onda)-(ra|gaze)-(mitsu|néctar) dai-kou-myo: 大光明 = (dai|grande/ótimo)-(hikari/kou|leve)-(akarui/mei/myo|brilhante) shiken representa quatro perspectivas: Coração misericordioso: expressa amor por tudo. Coração sincero: segue o que é certo. Coração sintonizado: segue a ordem natural das coisas. Coração dedicado: mantém a busca escolhida. Em suma, é a sensação e a harmonia percebida pelo sentido da audição e do coração.</description>
+      <title>Os 4 Fundamentos da Atenção Plena</title>
+      <link>http://localhost:1313/posts/4-fundamentos-atencao-plena/</link>
+      <pubDate>Tue, 14 Dec 2021 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/4-fundamentos-atencao-plena/</guid>
+      <description>No Budismo da Tradição Theravada existem dois tipos fundamentais de meditação. Um deles, samatha, visa ao desenvolvimento da tranqüilidade através de estados de absorções meditativas (jhana) e o outro tipo, vipassana, visa conseguir a visão interna da verdadeira natureza das coisas. Essas duas formas de meditação de modo algum se excluem mutuamente; no entanto, a Meditação Vipássana (meditação da introspecção, da percepção) sempre foi tradicionalmente considerada como a mais elevada das duas.</description>
     </item>
-    
-    <item>
-      <title>Receita Zen Para O Dia A Dia</title>
-      <link>https://example.org/posts/receita-zen-dia-dia/</link>
-      <pubDate>Tue, 21 Dec 2021 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/receita-zen-dia-dia/</guid>
-      <description>Em verdade, em verdade vos digo, a menos que um grão de trigo caia na terra e morra, ele permanece sozinho; mas, se morrer, trará muitos frutos.
-A prática budista consiste em ir morrendo devagar, passo a passo, deixando de nos identificar com as nossas fixações. Se nos mantemos fixados ao que quer que seja é porque ainda não morremos. Assim, quando deixamos de nos fixar, agrilhoar, a nossos parceiros não quer dizer que não os amamos porque na medida que desenvolvemos a prática, reduzimos as compulsões.</description>
-    </item>
-    
-    <item>
-      <title>Ichigu Wo Terasu</title>
-      <link>https://example.org/posts/ichigu-wo-terasu/</link>
-      <pubDate>Tue, 07 Dec 2021 20:18:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/ichigu-wo-terasu/</guid>
-      <description>Por definição, Ichigu Wo Terasu 隅 を 照 ら す significa iluminar um canto ou ser uma luz que ilumina seus arredores. Esta filosofia tem suas origens no Budismo Mahāyāna, passada a eles através do Budismo Chinês, trazido pelo Budista Japonês Saichō (15 de setembro de 767 - 26 de junho de 822).
-A luz ou iluminação, Terasu 照 ら す, é um tema que geralmente implica que estamos em um estado de escuridão natural/mental, e essa luz seria algo no qual uma vez que nos aproximamos, podemos iluminar nossas próprias vidas.</description>
-    </item>
-    
     <item>
       <title>5 Lembranças</title>
-      <link>https://example.org/posts/5-lembrancas/</link>
+      <link>http://localhost:1313/posts/5-lembrancas/</link>
       <pubDate>Tue, 02 Nov 2021 15:35:21 -0300</pubDate>
-      
-      <guid>https://example.org/posts/5-lembrancas/</guid>
-      <description>1. Envelhecer é parte da minha natureza. Não há como escapar do envelhecimento;
-2. Adoecer é parte da minha natureza. Não há como escapar das doenças;
-3. Morrer é parte da minha natureza. Não há como escapar da morte;
-4. Mudar é parte da natureza de tudo que prezo e de todos os que amo. Não há como eu evitar a minha separação de tudo e de todos;
-5. Minhas ações são as minhas verdadeiras posses.</description>
+      <guid>http://localhost:1313/posts/5-lembrancas/</guid>
+      <description>1. Envelhecer é parte da minha natureza. Não há como escapar do envelhecimento;&#xA;2. Adoecer é parte da minha natureza. Não há como escapar das doenças;&#xA;3. Morrer é parte da minha natureza. Não há como escapar da morte;&#xA;4. Mudar é parte da natureza de tudo que prezo e de todos os que amo. Não há como eu evitar a minha separação de tudo e de todos;&#xA;5. Minhas ações são as minhas verdadeiras posses.</description>
     </item>
-    
+    <item>
+      <title>Quando Me Amei De Verdade</title>
+      <link>http://localhost:1313/posts/amar-a-si-proprio/</link>
+      <pubDate>Tue, 07 Sep 2021 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/amar-a-si-proprio/</guid>
+      <description>Quando Me Amei de Verdade: É um livro muito bonito escrito por Kim McMillen, contém uma bela coleção de sabedoria que é surpreendente em sua simplicidade. Ao compartilhar suas idéias, a autora também nos mostra como sentir a mesma sensação de paz e alegria silenciosa que iluminou sua vida. Abaixo deixo uma amostra de suas frases.&#xA;Quando me amei de verdade, compreendi que em qualquer circunstância, eu estava no lugar certo, na hora certa, no momento exato.</description>
+    </item>
+    <item>
+      <title>Uma Nuvem Nunca Morre</title>
+      <link>http://localhost:1313/posts/uma-nuvem-nunca-morre/</link>
+      <pubDate>Sat, 21 Aug 2021 15:35:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/uma-nuvem-nunca-morre/</guid>
+      <description>Quando a nuvem não está mais no céu, isso não significa que a nuvem morreu. A nuvem continua em outras formas, como chuva, neve ou gelo. Assim você pode reconhecer sua nuvem em suas novas formas. Se você gosta muito de uma bela nuvem e sua nuvem não está mais lá, você não deve ficar triste. Sua amada nuvem pode ter se tornado a chuva, chamando você, &amp;lsquo;querida, querida, você não me vê em minha nova forma?</description>
+    </item>
   </channel>
 </rss>
