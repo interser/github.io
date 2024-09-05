@@ -2,6 +2,7 @@
 title = 'O biscoito da infância'
 date = 2024-09-02T16:46:32-03:00
 draft = false
+featured_image = '/images/biscoito-infancia.jpeg'
 +++
 
 Quando eu tinha quatro anos de idade, minha mãe costumava trazer um biscoito pra mim toda vez que chegava em casa do mercado. Eu sempre ia até o jardim da frente para comê-lo sem pressa, às vezes passava meia hora ou quarenta e cinco minutos saboreando um biscoito. 
