@@ -1,4 +1,4 @@
-$primary: #4CAF50;
+$primary: #8B4513;
 
 @import '~bootstrap-icons/font/bootstrap-icons.css';
 @import '~bootstrap/scss/bootstrap';
@@ -27,7 +27,7 @@ h3 {
 }
 
 a {
-  color: #1e90ff;
+  color: $primary;
   text-decoration: none;
 }
 
@@ -77,8 +77,8 @@ pre:hover {
 h1 {
   font-size: 2.5rem;
   font-weight: bold;
-  color: #2c3e50;
-  border-bottom: 2px solid #3498db;
+  color: $primary;
+  border-bottom: 2px solid $primary;
   padding-bottom: 10px;
   margin-bottom: 1.5rem;
 }
@@ -86,8 +86,8 @@ h1 {
 h2 {
   font-size: 2rem;
   font-weight: 600;
-  color: #34495e;
-  border-left: 4px solid #9b59b6;
+  color: $primary;
+  border-left: 4px solid $primary;
   padding-left: 10px;
   margin-top: 2rem;
   margin-bottom: 1rem;
@@ -96,8 +96,8 @@ h2 {
 h3 {
   font-size: 1.75rem;
   font-weight: 500;
-  color: #16a085;
-  border-left: 4px solid #1abc9c;
+  color: $primary;
+  border-left: 4px solid $primary;
   padding-left: 10px;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
@@ -106,7 +106,7 @@ h3 {
 h4 {
   font-size: 1.5rem;
   font-weight: 500;
-  color: #e67e22;
+  color: $primary;
   margin-top: 1.2rem;
   margin-bottom: 0.8rem;
 }
@@ -125,7 +125,7 @@ ol {
 }
 
 a {
-  color: #2980b9;
+  color: $primary;
   text-decoration: none;
 }
 

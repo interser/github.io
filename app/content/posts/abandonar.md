@@ -2,6 +2,7 @@
 title: "Abandonar"
 date: "2020-01-08"
 draft: false
+image: "/images/abandonar.jpg"
 ---
 
 Para abraçar o caminho espiritual inteiramente, ser capaz de nele crescer e percorrê-lo com uma sensação de segurança, é necessário renunciar. Renúncia não significa necessariamente raspar o cabelo ou vestir mantos. Renúncia significa abandonar todas as ideias e esperanças às quais a mente deseja se apegar e reter, ter interesse e desejo de investigar. A mente deseja sempre ter mais do que quer que seja que esteja disponível. Se não consegue obter mais, então produz fantasias e imaginações e as projeta sobre o mundo. Isso nunca trará a verdadeira satisfação, paz interior, que apenas podem ser conquistadas por meio da renúncia. **Abandonar** é a palavra chave no caminho Budista, é a dissolução do desejo. É necessário compreender de uma vez por todas que “mais” não é “melhor.” É impossível chegar ao fim de “mais,” sempre há algo que está mais além. Mas com certeza é possível chegar ao fim de “menos,” que é uma abordagem muito mais inteligente.
