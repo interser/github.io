@@ -2,6 +2,8 @@
 title: "Discussão"
 date: "2020-01-08"
 image: "/images/discutir-perca-tempo.jpeg"
+draft: false
+excerpt: "Todos os debates são inúteis, o próprio debater é uma idiotice, ninguém pode atingir a verdade pela discussão. Todas as discussões são uma grande perda de tempo, porque provocam um clima no qual qualquer entendimento entre duas ou mais pessoas se torna insuportável, onde qualquer coisa dita é sempre mal interpretada. Uma mente que está disposta a vencer, a conquistar, não consegue compreender nada. Isso é impossível porque a compreensão necessita de uma mente tranquila e não violenta."
 ---
 
 "Se o adversário é inferior a ti, porque brigar;
@@ -12,7 +14,7 @@ Se o adversário é igual a ti, compreenderá o que tu compreende;
 
 Então… não precisará haver luta."
 
-Todos os debates são inúteis, o próprio debater é uma idiotice, ninguém pode atingir a verdade pela discussão. Todas as discussões são uma grande perda de tempo, porque provocam um clima no qual qualquer entendimento entre duas ou mais pessoas se torna insuportável, onde qualquer coisa dita é sempre mal interpretada. Uma mente que está disposta a vencer, a conquistar, não consegue compreender nada. Isso é impossível porque a compreensão necessita de uma mente tranqüila e não violenta. E quando você está lutando pela vitória, você tem, obrigatoriamente, que ser violento.
+Todos os debates são inúteis, o próprio debater é uma idiotice, ninguém pode atingir a verdade pela discussão. Todas as discussões são uma grande perda de tempo, porque provocam um clima no qual qualquer entendimento entre duas ou mais pessoas se torna insuportável, onde qualquer coisa dita é sempre mal interpretada. Uma mente que está disposta a vencer, a conquistar, não consegue compreender nada. Isso é impossível porque a compreensão necessita de uma mente tranquila e não violenta. E quando você está lutando pela vitória, você tem, obrigatoriamente, que ser violento.
 
 Discutir é um ato de violência. Através dele você pode até matar, mas nunca ressuscitar. Através dele você pode até aleijar, mas nunca curar. Através dele a verdade, pode ser assassinada, mas nunca recuperada. O debate é sempre violento. Nele, sua própria atitude é sempre violenta. Na verdade você não está em busca da verdade, está em busca da vitória, seja por uma argumentação mais lógica, por uma erudição maior, ou ainda pela força física ou status. Quando a vitória é a meta, a verdade é sacrificada. Quando a verdade é a meta, você pode sacrificar a vitória.
 
