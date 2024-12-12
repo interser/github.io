@@ -2,11 +2,10 @@
 title: "Prazeres dos Sentidos"
 date: "2020-01-08"
 image: "/images/prazer-sentidos.jpeg"
+excerpt: "É importante desenvolver o entendimento correto sobre os prazeres dos sentidos. O Buda explica o que é a gratificação, os perigos e a escapatória dos prazeres dos sentidos."
 ---
 
-É importante desenvolver o entendimento correto sobre os prazeres dos sentidos.
-
-O Buda explica o que é a gratificação, os perigos e a escapatória dos prazeres dos sentidos.
+É importante desenvolver o entendimento correto sobre os prazeres dos sentidos. O Buda explica o que é a gratificação, os perigos e a escapatória dos prazeres dos sentidos.
 
 **1. A gratificação é o prazer em si proporcionado pelos objetos dos sentidos.**
 

@@ -2,6 +2,7 @@
 title: "O Insight Nos Liberta"
 date: "2020-01-08"
 image: "/images/o-insight-nos-liberta.jpeg"
+excerpt: "Todos temos insights. Sabemos que o objeto do nosso desejo não é tão valioso. Sabemos que não queremos ser capturados. Sabemos que não queremos gastar todo nosso dinheiro, tempo e energia nisso. Ainda assim, não somos capazes de nos livrar do desejo."
 ---
 
 Todos temos insights. Sabemos que o objeto do nosso desejo não é tão valioso. Sabemos que não queremos ser capturados. Sabemos que não queremos gastar todo nosso dinheiro, tempo e energia nisso. Ainda assim, não somos capazes de nos livrar do desejo. E isso acontece por não sabermos como aplicar nosso insight.

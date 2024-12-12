@@ -3,6 +3,7 @@ title: "O Lugar Da Frescura"
 date: "2020-01-08"
 draft: false
 image: "/images/frescura.jpeg"
+excerpt: "Algumas coisas que entendemos como erradas podem estar certas, enquanto as coisas que consideramos certas podem estar erradas."
 ---
 
 Algumas coisas que entendemos como erradas podem estar certas, enquanto as coisas que consideramos certas podem estar erradas.

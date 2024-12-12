@@ -3,10 +3,10 @@ title: "Todos Nós Queremos Ser Felizes"
 date: "2020-01-08"
 draft: false
 image: "/images/ser-feliz.jpeg"
+excerpt: Todos nós queremos ser felizes, e há muitos livros e professores no mundo que tentam ajudar as pessoas a serem mais felizes. No entanto, todos nós continuamos a sofrer.
 ---
 
-Todos nós queremos ser felizes, e há muitos livros e professores no
-mundo que tentam ajudar as pessoas a serem mais felizes. No entanto, todos nós continuamos a sofrer.
+Todos nós queremos ser felizes, e há muitos livros e professores no mundo que tentam ajudar as pessoas a serem mais felizes. No entanto, todos nós continuamos a sofrer.
 
 Por isso, podemos pensar que estamos “fazendo algo errado”. Por qualquer motivo, estamos sendo “deficientes em felicidade”. Mas isso não é verdade. Ser capaz de desfrutar a felicidade não requer que tenhamos zero sofrimento. De fato, a arte da felicidade também é a arte do sofrimento. Quando aprendemos a admitir, acolher e compreender o nosso sofrimento, sofremos muito menos. Além disso, nós também somos capazes de ir além e transformar o nosso sofrimento em compreensão, compaixão e alegria em benefício nosso e dos outros.
 

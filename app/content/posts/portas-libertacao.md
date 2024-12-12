@@ -3,6 +3,9 @@ title: "As Três Portas da Libertação"
 date: "2020-01-08"
 draft: true
 image: "/images/o-dia-do-seu-nascimento.jpeg"
+excerpt: "As três marcas da existência – impermanência, sofrimento e não-eu – são a descrição básica da realidade feita pelo Buda.
+As três portas da libertação são os ensinamentos de Thich Nhat Hanh sobre como transcender a dualidade, a raiz de todo o sofrimento,
+vivendo de acordo com estas verdades. É o lado positivo do que de outra forma poderia ser visto como uma notícia muito ruim."
 ---
 
 As três marcas da existência – impermanência, sofrimento e não-eu – são a descrição básica da realidade feita pelo Buda.

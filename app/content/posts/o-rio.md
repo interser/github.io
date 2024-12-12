@@ -3,6 +3,7 @@ title: "O Rio"
 date: "2020-01-08"
 draft: false
 image: "/images/rio.jpeg"
+excerpt: "Era uma vez um belo rio que passeava entre colinas, florestas e prados. Ele começou como um alegre córrego d ́água, uma fonte sempre dançante e cantante descendo ligeiro desde o topo da montanha."
 ---
 
 Era uma vez um belo rio que passeava entre colinas, florestas e prados. Ele começou como um alegre córrego d ́água, uma fonte sempre dançante e cantante descendo ligeiro desde o topo da montanha. O rio era muito jovem nesse tempo, e desde que chegou à planície, diminuiu sua velocidade. Ele pensava em ir até o oceano. Na medida em que crescia, ele aprendeu a ter um lindo visual, dando voltas graciosamente entre as colinas e prados.

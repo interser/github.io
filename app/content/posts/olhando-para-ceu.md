@@ -3,6 +3,7 @@ title: "Olhando Para O Céu"
 date: "2020-01-08"
 draft: false
 image: "/images/olhando-para-ceu.jpeg"
+excerpt: "Vamos imaginar que, olhando para o céu, vemos uma linda nuvem. E pensamos: “Ah, que nuvem linda!”. Pouco mais tarde, voltamos a olhar para o céu, que está limpo e azul, e pensamos: “Ah, aquela nuvem desapareceu”. Em dado momento, as coisas parecem existir, mas depois elas se vão. E nós observamos tudo dessa maneira, pois tendemos a estar presos a sinais, aparências e formas familiares, e isso nos impede de enxergar a verdadeira natureza da realidade."
 ---
 
 Vamos imaginar que, olhando para o céu, vemos uma linda nuvem. E pensamos: “Ah, que nuvem linda!”. Pouco mais tarde, voltamos a olhar para o céu, que está limpo e azul, e pensamos: “Ah, aquela nuvem desapareceu”. Em dado momento, as coisas parecem existir, mas depois elas se vão. E nós observamos tudo dessa maneira, pois tendemos a estar presos a sinais, aparências e formas familiares, e isso nos impede de enxergar a verdadeira natureza da realidade.

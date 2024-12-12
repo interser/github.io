@@ -2,6 +2,7 @@
 title: "Sobre O Amor - Part III"
 date: "2020-01-01"
 image: "/images/amor.jpeg"
+excerpt:  Aquele que ama, o amado e próprio amor, são todos por natureza impermanentes. As alterações e as mudanças que ocorrem, devido a causas e efeitos, significam que nada no mundo, incluindo o amor pessoal, é permanente ou capaz de oferecer um verdadeiro refúgio.
 ---
 
 Os ensinamentos do Buddha sugerem duas significantes desvantagens em relação ao amor mundano:

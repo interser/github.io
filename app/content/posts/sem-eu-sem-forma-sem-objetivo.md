@@ -3,6 +3,7 @@ title: "Sem eu, sem forma, sem objetivo"
 date: "2020-01-08"
 draft: false
 image: "/images/sem_eu_forma_objetivo.jpeg"
+excerpt: "Noções dualísticas, como nascimento e morte, ser e não-ser, semelhança e alteridade, vir e ir, são a base de todas as aflições."
 ---
 
 **Sem Eu, Sem Forma, Sem Objetivo**

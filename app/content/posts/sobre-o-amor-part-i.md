@@ -2,6 +2,7 @@
 title: "Sobre O Amor - Part I"
 date: "2020-01-08"
 image: "/images/amor.jpeg"
+excerpt: Sempre gostei de histórias e em particular de histórias que requerem que o leitor sofra um pouco e que verta algumas lágrimas no desenrolar da ação, antes do final feliz. Atualmente, o Caminho Óctuplo é a minha história preferida;
 ---
 
 Sempre gostei de histórias e em particular de histórias que requerem que o leitor sofra um pouco e que verta algumas lágrimas no desenrolar da ação, antes do final feliz. Atualmente, o Caminho Óctuplo é a minha história preferida; a iluminação é o supremo final feliz. Mas nas histórias que eu acalentei na minha juventude, os finais felizes quase sempre envolviam um certo tipo de amor, e comecei a observar que na realidade, o amor nem sempre é uma garantia para a felicidade e raramente soluciona seja o que for por muito tempo. Um dos “slogans” do meu tempo que mais me marcou foi um que questionava se éramos parte do problema ou parte da solução. Penso que esta é uma questão que podemos colocar relativamente ao amor. Ele é mesmo parte da solução para o sofrimento na nossa vida ou simplesmente o aumenta? A resposta é simples: depende do tipo de amor e de como cuidamos dele. Até o amor mais puro necessita de ser constantemente purificado.

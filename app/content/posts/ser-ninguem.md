@@ -3,6 +3,7 @@ title: "Ser Ninguém"
 date: "2020-01-08"
 draft: false
 image: "/images/ser-ninguem.jpeg"
+excerpt: Se você alguma vez leu Dom Quixote, irá se lembrar que ele lutava contra moinhos de vento. Todos estamos fazendo exatamente o mesmo, lutando contra moinhos de vento. Dom Quixote, que foi a invenção da imaginação de um escritor, era um homem que acreditava ser um grande guerreiro.
 ---
 
 Se você alguma vez leu Dom Quixote, irá se lembrar que ele lutava contra moinhos de vento. Todos estamos fazendo exatamente o mesmo, lutando contra moinhos de vento. Dom Quixote, que foi a invenção da imaginação de um escritor, era um homem que acreditava ser um grande guerreiro. Ele pensava que cada moinho de vento que encontrava era um inimigo e começava a guerrear contra ele. É exatamente isso que fazemos no íntimo dos nossos próprios corações e é por essa razão que essa história tem um apelo imortal. É uma história sobre nós mesmos. Escritores e poetas que sobreviveram além da sua própria era, sempre relataram aos seres humanos histórias sobre eles mesmos. A maioria das pessoas não querem ouvir porque não ajuda nada quando outras pessoas nos dizem o que existe de errado conosco, e pouquíssimos se dão ao trabalho de ouvir. Cada um tem que descobrir por si mesmo e a maioria das pessoas não quer fazer isso tampouco.
