@@ -1,0 +1,15 @@
+---
+title: "Sobre O Amor - Part I"
+date: "2020-01-08"
+image: "/images/amor.jpeg"
+---
+
+Sempre gostei de histórias e em particular de histórias que requerem que o leitor sofra um pouco e que verta algumas lágrimas no desenrolar da ação, antes do final feliz. Atualmente, o Caminho Óctuplo é a minha história preferida; a iluminação é o supremo final feliz. Mas nas histórias que eu acalentei na minha juventude, os finais felizes quase sempre envolviam um certo tipo de amor, e comecei a observar que na realidade, o amor nem sempre é uma garantia para a felicidade e raramente soluciona seja o que for por muito tempo. Um dos “slogans” do meu tempo que mais me marcou foi um que questionava se éramos parte do problema ou parte da solução. Penso que esta é uma questão que podemos colocar relativamente ao amor. Ele é mesmo parte da solução para o sofrimento na nossa vida ou simplesmente o aumenta? A resposta é simples: depende do tipo de amor e de como cuidamos dele. Até o amor mais puro necessita de ser constantemente purificado.
+
+E porque é que é necessário continuar a purificar o amor? A resposta fácil é que ele está sujeito a impurezas. A causa dessas impurezas é o sofrimento e a causa do sofrimento é o desejo. Visto nós, seres humanos, não desejarmos nem sequer uma ponta de sofrimento, mas de bom agrado aceitarmos toda e qualquer felicidade que se nos apresenta, faz sentido assegurarmo-nos de que todos os diferentes aspectos das nossas vidas, incluindo o amor, sejam os mais propícios para o alcance da felicidade, evitando o mais possível o sofrimento. O amor é uma parte da vida que necessitamos de imbuir de sabedoria e compreensão.
+
+O amor tende a misturar-se com outras emoções, fazendo com que aqueles que nunca refletiram sobre ele atentamente, confundam as emoções associadas ao amor com uma parte ou até com expressões do próprio amor. Por exemplo, frequentemente, em vez de considerarmos preocupações e ciúmes como sendo impurezas do amor, tomamo-las como provas do mesmo, e assim aceitamos tais sentimentos. Temos tendência a ignorar as impurezas do amor. É alarmante como tão facilmente os estados de negatividade da mente, tais como a avareza, a aversão e a ignorância, podem destruir o amor, infiltrando-se nos corações que desconhecem os ensinamentos do Buddha (Dhamma). A maior parte das pessoas são como donos de uma casa sem portas: qualquer um é livre de entrar e sair; não é de surpreender que os ladrões abundem!
+
+É um ato de inteligência entender o que é o amor, pois conhecer e compreender a nossa natureza é o único caminho para a paz e felicidade a que nós, seres humanos, podemos e devemos aspirar. O Buddha ensina-nos que, neste mundo, tudo pode ser um problema para quem não tem sabedoria, mas não para quem a tem. O mesmo se aplica ao amor. Quando a nossa sabedoria estiver suficientemente desenvolvida, poderemos abandonar a tristeza e praticar a parte alegre do Dhamma para que o amor não nos cause mal e, pelo contrário, se torne no motor que impulsiona as nossas vidas para a verdadeira felicidade.
+
+por Ajahn Jayasāro

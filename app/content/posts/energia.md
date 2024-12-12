@@ -1,0 +1,10 @@
+---
+title: "Energia"
+date: "2020-01-08"
+draft: true
+---
+
+E o que é a faculdade da energia ? Neste caso uma pessoa permanece com a sua energia desperta para o abandono de qualidades mentais prejudiciais e para a obtenção de qualidades mentais benéficas; ele é decidido, firme no seu esforço, sem se esquivar das suas responsabilidades com relação ao cultivo de qualidades mentais benéficas.
+Ele é zeloso para que não surjam estados ruins e prejudiciais que ainda não surgiram e ele se aplica, estimula a sua energia, empenha a sua mente e se esforça. Ele é zeloso em abandonar estados ruins e prejudiciais que já surgiram e ele se aplica, estimula a sua energia, empenha a sua mente e se esforça. Ele é zeloso para que surjam estados benéficos que ainda não surgiram e ele se aplica, estimula a sua energia, empenha a sua mente e se esforça. Ele é zeloso para que haja a continuidade, o não desaparecimento, o fortalecimento, o incremento e a realização através do desenvolvimento de estados benéficos que já surgiram e ele se aplica, estimula a sua energia, empenha a sua mente e se esforça. Essa é chamada a faculdade da energia.
+
+Agora, quando o esforço e a persistência estão presentes em nós, então a energia também terá que estar presente. Porque ? Quando você aplica esforço e persistência em relação a algo, inevitavelmente surgirão obstáculos no seu caminho. Se você for realmente persistente, esses obstáculos irão desaparecer, o que significa que você também esteve utilizando a energia. Se você tiver esforço sem energia, não irá a lugar nenhum. Se você tiver persistência, significa que o seu esforço também tem energia. Dessa forma, devemos considerar que o esforço vem primeiro e a energia em seguida. Uma vez que essas qualidades estejam constantemente atuando em sincronia dentro de você então, não importa quão profundos ou distantes os seus objetivos sejam, você irá alcançá-los de acordo com as suas expectativas. Por isso, é através do esforço e persistência que as pessoas obtêm a libertação do mundo e obtem a paz.

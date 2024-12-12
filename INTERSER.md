@@ -2,6 +2,7 @@
 https://youtu.be/nC6QB2a514E?t=1872
 https://tricycle.org/magazine/what-do-buddhists-mean-when-they-talk-about-emptiness/
 https://acessoaoinsight.net/sutta/MN59.php
+
 "As tristezas, lamentações, 
 os muitos tipos de sofrimentos do mundo, 
 dependem daquilo que é querido. 
