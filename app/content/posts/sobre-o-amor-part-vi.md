@@ -3,9 +3,10 @@ title: "Sobre O Amor - Part VI"
 date: "2020-01-01"
 draft: false
 image: "/images/amor.jpeg"
+excerpt: Os jovens frequentemente veem no amor a solução para todos os problemas da vida. Pensam que o principal é simplesmente amar e ser amado; desde que isso esteja presente, tudo o resto se resolverá por si próprio.
 ---
 
-Os jovens frequentemente vêem no amor a solução para todos os problemas da vida. Pensam que o principal é simplesmente amar e ser amado; desde que isso esteja presente, tudo o resto se resolverá por si próprio. Mas se estivermos dispostos a observar mais de perto, a experiência diz-nos que aquilo que determina uma felicidade duradoura, não é tanto a presença do amor mas sim a qualidade das nossas ações, palavras e pensamentos. Em última instância, alguém sem prática espiritual que tome o amor como refúgio, está a criar condições para o desapontamento.
+Os jovens frequentemente veem no amor a solução para todos os problemas da vida. Pensam que o principal é simplesmente amar e ser amado; desde que isso esteja presente, tudo o resto se resolverá por si próprio. Mas se estivermos dispostos a observar mais de perto, a experiência diz-nos que aquilo que determina uma felicidade duradoura, não é tanto a presença do amor mas sim a qualidade das nossas ações, palavras e pensamentos. Em última instância, alguém sem prática espiritual que tome o amor como refúgio, está a criar condições para o desapontamento.
 
 Já repararam como tantas pessoas apaixonadas sofrem precisamente por terem assumido que o amor seria o fim do sofrimento ou que poderia resolver os seus problemas? Quando as coisas não correm bem dessa forma, a tendência é sentirem-se desapontadas, enganadas. Sentem que as coisas não deveriam ser assim, que não é justo. Assim que a primeira vaga de entusiasmo do amor se desvanece, já não conseguimos ignorar tão facilmente a forma como (apesar das melhores intenções do mundo) a imaturidade emocional e espiritual nos obstrui constantemente. O Buddha insistiu no fato de que sofremos devido a desejos que surgem quando não nos compreendemos a nós próprios. O sofrimento termina porque os desejos baseados na ignorância terminam, não porque tu me amas ou porque eu te amo.
 

@@ -3,9 +3,10 @@ title: "As Três Respostas"
 date: "2020-01-01"
 draft: false
 image: "/images/tres-respostas.jpeg"
+excerpt: Na estória das três perguntas do imperador, ele poderia continuar a reinar satisfeito, sem o risco de cometer nenhuma falha, somente se conseguisse a resposta para as seguintes perguntas
 ---
 
-Para terminar esta carta, eu gostaria de contar uma estória narrada por Tolstoy, de que você e nossos amigos na Escola irão gostar. É a estória das três perguntas do imperador. Ele poderia continuar a reinar satisfeito, sem o risco de cometer nenhuma falha, somente se conseguisse a resposta para as seguintes perguntas:
+Na estória das três perguntas do imperador, ele poderia continuar a reinar satisfeito, sem o risco de cometer nenhuma falha, somente se conseguisse a resposta para as seguintes perguntas:
 
 1. Qual o tempo mais oportuno para se fazer cada coisa ?
 1. Quais as pessoas mais importantes com quem trabalhar ?

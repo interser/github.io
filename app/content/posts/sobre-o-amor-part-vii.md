@@ -3,6 +3,7 @@ title: "Sobre O Amor - Part VII"
 date: "2020-01-01"
 draft: false
 image: "/images/amor.jpeg"
+excerpt: Outra dificuldade que pode acompanhar o amor é o desconforto com as famílias dos nossos companheiros.
 ---
 
 Outra dificuldade que pode acompanhar o amor é o desconforto com as famílias dos nossos companheiros. Por vezes os pais ou os irmãos dos nossos companheiros não gostam de nós; outras vezes somos nós que não gostamos deles. Às vezes envolve um assunto em particular, mas a maior parte das vezes trata-se somente de um conflito de personalidades. Muitos admitem que se pudessem escolher não queriam ter absolutamente nada a ver com alguns dos seus familiares; mas suportam-nos por um sentimento de dever, para assim manter a paz na família. Alguns podem ter a boa fortuna de se darem bem com todos, mas para muitas pessoas, relações com familiares e amigos daqueles que amam, são mais um fardo que uma bênção, que vem com o amor.

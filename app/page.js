@@ -16,8 +16,8 @@ export default async function Home() {
                   <Link href={`/posts/${post.slug}`} className="text-decoration-none">
                     <h5 className="card-title">{post.title}</h5>
                   </Link>
-                  <h6 className="card-subtitle mb-2 text-muted">{post.date}</h6>
-                  <p className="card-text">{post.excerpt}</p>
+                  {/* <h6 className="card-subtitle mb-2 text-muted">{post.date}</h6>*/}
+                  <p className="card-text">{post?.excerpt}</p> 
                 </div>
               </div>
             </Col>

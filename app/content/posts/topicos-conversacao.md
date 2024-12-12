@@ -2,6 +2,7 @@
 title: "Tópicos Para Conversação"
 date: "2020-01-08"
 image: "/images/topicos-conversao.jpeg"
+excerpt: Em certa ocasião, um sábio mestre escutou seu discípulos conversando sobre vários tópicos inferiores
 ---
 
 Em certa ocasião, um sábio mestre escutou seu discípulos conversando sobre vários tópicos inferiores, eles estavam falando sobre reis, ladrões, ministros de estado, exércitos, alarmes e batalhas; comida e bebida, roupas, mobília, ornamentos e perfumes, parentes; veículos; vilarejos, vilas, cidades, mulheres e heróis; as fofocas das ruas; contos dos mortos; contos da diversidade (discussões filosóficas do passado e futuro), a criação do mundo e do mar e sobre a existência ou não das coisas.
