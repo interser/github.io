@@ -2,14 +2,24 @@
 title: "Aspirando Por Amizades"
 date: "2020-01-08"
 image: "/images/amigos.jpeg"
-excerpt: "Amizade é o elo entre a verdade e o respeito e está interligado com o nosso desenvolvimento pessoal. Os laços de amizade que criamos com outras pessoas podem ser muito tóxicos e nos trazer muitos problemas."
+excerpt: "A família é o primeiro contato no que diz respeito a educação e desenvolvimento moral de uma criança. As crianças que se desenvolvem em um ambiente familiar tóxico, onde existem abusos, desrespeito e negligencia, também se tornarão pessoas de mau caráter."
+draft: true
 ---
 
-Amizade é o elo entre a verdade e o respeito e está interligado com o nosso desenvolvimento pessoal. Os laços de amizade que criamos com outras pessoas podem ser muito tóxicos e nos trazer muitos problemas.
+A família é o primeiro fator na educação e desenvolvimento moral de uma criança e que posteriormente será aquela pessoa que contribui
+para constituir uma sociedade. No entanto, como pais e mães carregam sofrimento consigo, toda
 
-Tendo a família como base moral, as crianças que se desenvolvem em um ambiente familiar tóxico, também farão amizades com pessoas de mau caráter. Pelo fato de não ter recebido educação, essas crianças não aprimoraram o seu discernimento, portanto, é impossível para elas filtrar os amigos bons dos amigos ruins. O discernimento, que é a habilidade de avaliar algo com sensatez e clareza, é quase inexistente, e por isso é comum amizades que desenvolvem apenas comportamentos pejorativos.
 
-É possível avaliar o grau de ignorância que existe em amizades tóxicas, fazendo uma avaliação no tema das conversas. Se a tagarelice gira em torno de tópicos como, por exemplo: sexo, traição, drogas, pornografia, feminismo e videogames, podemos dizer que essas amizades são totalmente tóxicas e que `destroem as suas raízes`.
+
+As crianças que se desenvolvem em um ambiente familiar tóxico, onde existem abusos, desrespeito e negligencia, também se tornarão pessoas de mau caráter. 
+
+
+
+Amizade é o elo entre a verdade e o respeito e está interligado com o nosso desenvolvimento pessoal. Os laços de amizade que criamos com outras pessoas podem ser muito tóxicos e nos trazer muitos problemas. 
+
+Pelo fato de não ter recebido educação, essas crianças não aprimoraram o seu discernimento, portanto, é impossível para elas filtrar os amigos bons dos amigos ruins. O discernimento, que é a habilidade de avaliar algo com sensatez e clareza, é quase inexistente, e por isso é comum amizades que desenvolvem apenas comportamentos pejorativos.
+
+É possível avaliar o grau de ignorância que existe em amizades tóxicas, fazendo uma avaliação no tema das conversas. Se a tagarelice gira em torno de tópicos como, por exemplo: sexo, traição, drogas, pornografia, feminismo e videogames, podemos dizer que essas amizades são totalmente tóxicas e que destroem as suas raízes.
 
 Amigos saudáveis e verdadeiros, são como jardineiros que regam e cuidam de suas sementes, e a essas sementes nós à chamamos de virtudes e valores. Portanto, faça uma análise no tipo de conversa e comportamento que existe entre você e seus amigos, reflita sobre isso . Se seus amigos são pessoas que buscam melhorar a si mesmos em aspectos como a sinceridade, honestidade e bom caráter, então você encontrou uma rara pessoa no mundo, caso contrário, se essa pessoa busca coisas como as citadas acima, então é melhor viver sozinho do que mal acompanhado.
 
