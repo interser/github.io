@@ -3,6 +3,7 @@ title: "Nutrindo A Consciência"
 date: "2020-01-08"
 draft: false
 image: "/images/nutrindo_a_consciencia.jpeg"
+excerpt: "Numa noite fria de inverno, eu voltei para casa de uma caminhada pelos morros, e encontrei escancaradas todas as portas e janelas do meu eremitério."
 ---
 
 Numa noite fria de inverno, eu voltei para casa de uma caminhada pelos morros, e encontrei escancaradas todas as portas e janelas do meu eremitério. Quando saí mais cedo, eu me esqueci de prendê-las, e um vento frio tinha soprado pela casa, aberto janelas e espalhado, por toda a sala, os papéis da minha escrivaninha. Eu, imediatamente, fechei as portas e janelas, acendi uma lamparina, peguei os papéis e os arrumei com esmero sobre a minha mesa. Depois acendi o fogo na lareira, e logo os troncos crepitantes trouxeram o calor de volta ao quarto.

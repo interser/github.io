@@ -4,13 +4,13 @@ date: "2020-01-08"
 image: "/images/discutir-perca-tempo.jpeg"
 ---
 
-\*\*"Se o adversário é inferior a ti, porque brigar;
+"Se o adversário é inferior a ti, porque brigar;
 
 Se o adversário é superior a ti, porque brigar;
 
 Se o adversário é igual a ti, compreenderá o que tu compreende;
 
-Então… não precisará haver luta."\*\*
+Então… não precisará haver luta."
 
 Todos os debates são inúteis, o próprio debater é uma idiotice, ninguém pode atingir a verdade pela discussão. Todas as discussões são uma grande perda de tempo, porque provocam um clima no qual qualquer entendimento entre duas ou mais pessoas se torna insuportável, onde qualquer coisa dita é sempre mal interpretada. Uma mente que está disposta a vencer, a conquistar, não consegue compreender nada. Isso é impossível porque a compreensão necessita de uma mente tranqüila e não violenta. E quando você está lutando pela vitória, você tem, obrigatoriamente, que ser violento.
 

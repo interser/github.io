@@ -2,6 +2,7 @@
 title: "A Hora Do Lobo"
 date: "2020-01-08"
 image: "/images/hora-do-lobo.jpeg"
+excerpt: "Existe um predador no interior de todos nós. Ele não existe para predar outras pessoas, mas para caçar a nós mesmos, devorando nosso discernimento, afastando a sabedoria."
 ---
 
 Existe um predador no interior de todos nós. Ele não existe para predar outras pessoas, mas para caçar a nós mesmos, devorando nosso discernimento, afastando a sabedoria. Foi criado a partir de nossos hábitos e padrões de comportamento insalubres, de nossas vaidades e egoísmos, e se alimenta de nossa energia mental, emocional e espiritual. Como todo predador, ele não age aleatoriamente e sem estratégia; fica à espreita e somente nos domina quando estimulado pelas circunstâncias, emoções e pensamentos que excitem sua ira. E nesta hora, como afirma Thich Nhat Hanh, o grande mestre budista da tradição Tiep Hien do zen vietnamita, fazemos coisas que não queremos fazer, dizemos coisas que não queremos dizer, pensamos coisas que não gostamos de pensar. Magoamos a nós mesmos e a outros, incapazes de agir com consciência plena. Esta é a Hora do Lobo, o momento em que caímos na mais lamentável cadeia de ações inconscientes e ignorantes, fundamentadas nos vícios de atitude que desenvolvemos ao longo de nossa vida. E essa triste queda devora nosso discernimento e percepção, e nos nega a sabedoria.

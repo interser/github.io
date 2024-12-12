@@ -2,6 +2,7 @@
 title: "Aspirando Por Amizades"
 date: "2020-01-08"
 image: "/images/amigos.jpeg"
+excerpt: "Amizade é o elo entre a verdade e o respeito e está interligado com o nosso desenvolvimento pessoal. Os laços de amizade que criamos com outras pessoas podem ser muito tóxicos e nos trazer muitos problemas."
 ---
 
 Amizade é o elo entre a verdade e o respeito e está interligado com o nosso desenvolvimento pessoal. Os laços de amizade que criamos com outras pessoas podem ser muito tóxicos e nos trazer muitos problemas.

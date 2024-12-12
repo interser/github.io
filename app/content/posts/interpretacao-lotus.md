@@ -3,6 +3,7 @@ title: "Interpretação do Lótus"
 date: "2020-01-08"
 draft: false
 image: "/images/lotus.jpeg"
+excerpt: "A flor de lótus é um símbolo da trajetória de libertação. A semente da flor de lótus é uma esfera com uma casca muito dura e com longa capacidade de sobrevivência. Foram encontradas algumas sementes de lótus no túmulo de um imperador chinês, aberto no século XX."
 ---
 
 A flor de lótus é um símbolo da trajetória de libertação. A semente da flor de lótus é uma esfera com uma casca muito dura e com longa capacidade de sobrevivência. Foram encontradas algumas sementes de lótus no túmulo de um imperador chinês, aberto no século XX. Depois de mais de mil anos, essas sementes foram colocadas nas condições ideais, germinaram e floresceram. E quais são as condições necessárias para uma semente de lótus germinar ? Primeiro, o lodo, a flor de lótus só germina no lodo. Mas é preciso que haja água sobre o lodo. Se for apenas lama, ele não vai germinar. E, além de água, é preciso que haja incidência de sol, ele não desabrocha na sombra.

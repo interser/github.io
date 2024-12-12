@@ -3,6 +3,7 @@ title: "As Cinco Lembranças"
 date: "2020-01-08"
 draft: false
 image: "/images/lembrancas.jpeg"
+excerpt: "As Cinco Lembranças são cinco verdades que o Buda disse que todos deveríamos contemplar e aceitar. Ele disse aos seus discípulos que refletir sobre essas cinco verdades faz nascer os fatores do Caminho Óctuplo."
 ---
 
 As Cinco Lembranças são cinco verdades que o Buda disse que todos deveríamos contemplar e aceitar. Ele disse aos seus discípulos que refletir sobre essas cinco verdades faz nascer os fatores do Caminho Óctuplo. E a partir disso, os grilhões são abandonados e as obsessões destruídas.

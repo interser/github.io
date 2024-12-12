@@ -3,9 +3,10 @@ title: "Nome e Forma"
 date: "2020-01-08"
 draft: false
 image: "/images/nome-forma.jpeg"
+excerpt: "Em uma ocasião, o Abençoado entrou no salão de assembleia e os irmãos silenciaram sua conversa. Depois de cumprimentá-lo com as mãos entrelaçadas, eles se sentaram e se recompuseram."
 ---
 
-Em uma ocasião, o Abençoado entrou no salão de assembléia e os irmãos silenciaram sua conversa. Depois de cumprimentá-lo com as mãos entrelaçadas, eles se sentaram e se recompuseram. Então o Abençoado disse: "Suas mentes estão inflamadas com intenso interesse; qual foi o tema de sua discussão?"
+Em uma ocasião, o Abençoado entrou no salão de assembleia e os irmãos silenciaram sua conversa. Depois de cumprimentá-lo com as mãos entrelaçadas, eles se sentaram e se recompuseram. Então o Abençoado disse: "Suas mentes estão inflamadas com intenso interesse; qual foi o tema de sua discussão?"
 
 E Sariputta levantou-se e falou: "Mestre honrado pelo mundo, era sobre a natureza da própria existência do homem. Estávamos tentando compreender a mistura de nosso próprio ser que se chama Nome e Forma. Todo ser humano consiste em conformações, e existem três grupos que não são corpóreos. Eles são a sensação, a percepção e as disposições; todos os três constituem a consciência e a mente, sendo compreendidos sob o termo **nome**. E há quatro elementos, o elemento terrestre, o elemento aquoso, o elemento ígneo e o gasoso. Esses quatro elementos constituem a **forma (corpórea)** do homem, sendo mantidos juntos para que essa máquina se mova como uma marionete. Como esse **nome** e essa **forma** permanecem e como podem viver ?"
 

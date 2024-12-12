@@ -3,6 +3,7 @@ title: "Curar A Dor De Criança"
 date: "2020-01-08"
 draft: false
 image: "/images/curar-dor-crianca.jpeg"
+excerpt: "Em cada um de nós, há uma criança jovem e sofredora. Todos nós passamos por momentos difíceis na infância e muitos de nós vivemos traumas. Para nos proteger e defender contra futuros sofrimentos, muitas vezes tentamos esquecer esses tempos dolorosos."
 ---
 
 Em cada um de nós, há uma criança jovem e sofredora. Todos nós passamos por momentos difíceis na infância e muitos de nós vivemos traumas. Para nos proteger e defender contra futuros sofrimentos, muitas vezes tentamos esquecer esses tempos dolorosos. Sempre que nos deparamos com a experiência do sofrimento, acreditamos que não conseguimos suportá-lo, e reprimimos nossos sentimentos e memórias bem fundo em nossa mente inconsciente. Pode ser que não tenhamos ousado enfrentar essa criança por muitas décadas.

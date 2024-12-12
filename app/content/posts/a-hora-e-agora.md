@@ -3,6 +3,8 @@ title: "A Hora E Agora"
 date: "2020-01-08"
 draft: false
 image: "/images/a-hora-e-agora.jpeg"
+excerpt: "Algumas tartarugas vivem trezentos ou quatrocentos anos, e algumas
+sequoias vivem mais de mil anos."
 ---
 
 Algumas tartarugas vivem trezentos ou quatrocentos anos, e algumas

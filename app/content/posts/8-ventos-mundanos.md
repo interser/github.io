@@ -3,6 +3,7 @@ title: "Os Oito Ventos Mundanos"
 date: "2020-01-08"
 draft: true
 image: "/images/ventos.jpeg"
+excerpt: "De acordo com um dos ensinamentos budistas fundamentais – ou seja, ensinamentos que datam da época do Buda Shakyamuni há alguns milhares de anos – estamos condenados a ser "soprados" por Oito Ventos Mundanos"
 ---
 
 De acordo com um dos ensinamentos budistas fundamentais – ou seja, ensinamentos que datam da época do Buda Shakyamuni há alguns milhares de anos – estamos condenados a ser "soprados" por **Oito Ventos Mundanos**, a menos que nos engajemos na prática espiritual. Os oito ventos formam quatro pares: ganho e perda, sucesso e fracasso, elogio e crítica, prazer e dor. Pessoalmente, acho isso uma metáfora vívida e útil para a experiência humana.

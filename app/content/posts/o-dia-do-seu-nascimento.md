@@ -3,6 +3,7 @@ title: "O Dia Do Seu Nascimento"
 date: "2020-01-08"
 draft: false
 image: "/images/o-dia-do-seu-nascimento.jpeg"
+excerpt: "Neste exato momento, todos estamos morrendo. Alguns mais lentamente, outros de maneira mais rápida."
 ---
 
 Neste exato momento, todos estamos morrendo. Alguns mais lentamente, outros de maneira mais rápida. Se podemos estar vivos agora, é porque estamos morrendo em todos os instantes. Podemos pensar que outra pessoa está morrendo, mas nós não. Porém, não devemos nos deixar enganar pelas aparências.

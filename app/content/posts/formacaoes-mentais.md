@@ -3,6 +3,7 @@ title: "Formaçōes Internas"
 date: "2020-01-08"
 draft: false
 image: "/images/formacoes_internas.jpeg"
+excerpt: "Há um termo na psicologia budista que poderia ser traduzido como “formações internas”, “algemas” ou “nós”."
 ---
 
 Há um termo na psicologia budista que poderia ser traduzido como “formações internas”, “algemas” ou “nós”.

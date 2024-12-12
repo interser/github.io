@@ -3,6 +3,9 @@ title: "As Maravilhas Do Entre Ser"
 date: "2020-01-08"
 draft: false
 image: "/images/as-maravilhas-do-entreser.jpeg"
+excerpt: "Imagine, por um momento, uma linda flor. Essa flor pode ser uma orquídea
+ou uma rosa, ou mesmo uma simples margarida que cresceu às margens de
+uma estrada."
 ---
 
 Imagine, por um momento, uma linda flor. Essa flor pode ser uma orquídea

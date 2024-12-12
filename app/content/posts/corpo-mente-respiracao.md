@@ -3,6 +3,7 @@ title: "Corpo, mente e respiração"
 date: "2020-01-08"
 draft: false
 image: "/images/corpo-mente-respiracao.jpeg"
+excerpt: "Em nossas vidas cotidianas, a nossa atenção se encontra dispersa. Nosso corpo está em determinado lugar, ignoramos a nossa respiração e a nossa mente permanece vagando."
 ---
 
 Em nossas vidas cotidianas, a nossa atenção se encontra dispersa. Nosso corpo está em determinado lugar, ignoramos a nossa respiração e a nossa mente permanece vagando. Ao prestarmos atenção em nossa respiração enquanto inspiramos, essas três coisas (corpo, respiração e mente) entram em uníssono. E isto pode acontecer em apenas um ou dois segundos. Nós voltamos a nós mesmos. A consciência une os três elementos, e nós passamos a estar inteiramente presentes no aqui e no agora. Cuidamos do nosso corpo, cuidamos da nossa respiração e cuidamos da nossa mente.

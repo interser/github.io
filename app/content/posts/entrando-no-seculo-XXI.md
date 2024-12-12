@@ -3,6 +3,7 @@ title: "Entrando No Seculo XXI"
 date: "2020-01-08"
 draft: false
 image: "/images/21.jpeg"
+excerpt: "A palavra “política” está sendo muito usada, hoje em dia. Parece haver uma política para quase tudo. Eu ouvi dizer que as ditas nações desenvolvidas estão estudando um programa político para o lixo a fim de enviar, em enormes barcaças, os seus lixos ao Terceiro Mundo."
 ---
 
 A palavra “política” está sendo muito usada, hoje em dia. Parece haver uma política para quase tudo. Eu ouvi dizer que as ditas nações desenvolvidas estão estudando um programa político para o lixo a fim de enviar, em enormes barcaças, os seus lixos ao Terceiro Mundo.

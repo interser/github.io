@@ -3,6 +3,7 @@ title: "Fazer Nada"
 date: "2020-01-08"
 draft: false
 image: "/images/fazer-nada.jpeg"
+excerpt: "Imagine três árvores juntas em uma floresta. Elas não conversam, mas sentem a presença umas das outras. Quando você as observa, parece que elas não fazem nada. No entanto, elas estão crescendo e oferecendo ar puro para que os seres vivos possam respirar."
 ---
 
 Imagine três árvores juntas em uma floresta. Elas não conversam, mas sentem a presença umas das outras. Quando você as observa, parece que elas não fazem nada. No entanto, elas estão crescendo e oferecendo ar puro para que os seres vivos possam respirar. Em vez de descrever a meditação sentada como a prática de concentrar-se, observar profundamente e alcançar insights, eu gosto de descrevê-la como o prazer de não fazer nada. Em primeiro lugar, sentar-se é desfrutar do prazer do ato de estar sentado, mantendo-se completamente vivo e em contato com as maravilhas do corpo em funcionamento, com o ar fresco, com o som das pessoas e dos pássaros, com as cores que mudam no céu.

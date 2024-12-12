@@ -2,6 +2,7 @@
 title: "Fisgado"
 date: "2022-03-07"
 image: "/images/fisgado.jpeg"
+excerpt: "Contemplar o não-desejo é outra maneira de praticar a concentração na ausência de objetivo. Cada um de nós carrega uma boa dose de desejo internamente."
 ---
 
 Contemplar o não-desejo é outra maneira de praticar a concentração na ausência de objetivo. Cada um de nós carrega uma boa dose de desejo internamente. Estamos sempre olhando para fora de nós mesmos, tentando encontrar algo que nos deixe saciados e completos... seja comida, prazer sexual, dinheiro, relacionamento, status social ou êxito. Porém, enquanto a energia do desejo estiver viva dentro de nós, nunca nos satisfaremos com o que temos e com quem somos neste momento, e a verdadeira felicidade não será possível. A energia do desejo nos projeta para o futuro, e, com isso, perdemos toda a nossa paz e liberdade no presente. Tudo parece indicar que só seremos felizes quando alcançarmos o que desejamos.
